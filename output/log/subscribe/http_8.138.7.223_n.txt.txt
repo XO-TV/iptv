@@ -1,0 +1,620 @@
+ææ°æ´æ°,#genre#
+CCTV-1ç»¼å,http://8.138.7.223/tv/cctv1.php
+CCTV-1ç»¼å,http://106.53.99.30/tv/tju.php?id=3
+CCTV-1ç»¼å,http://111.56.90.5/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
+CCTV-1ç»¼å,https://zhzt.edehong.com:8001/srs1/live/4127925.flv
+CCTV-2è´¢ç»,http://8.138.7.223/tv/fytv.php?id=2
+CCTV-2è´¢ç»,http://8.138.7.223/tv/cctv2.php
+CCTV-3ç»¼èº,http://8.138.7.223/tv/fytv.php?id=3
+CCTV-4ä¸­æå½é,http://8.138.7.223/tv/fytv.php?id=4
+CCTV-5ä½è²,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/aoyuncctv5_2pd
+CCTV-5+ä½è²èµäº,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/aoyuncctv5plus_2pd
+CCTV-13æ°é»,http://8.138.7.223/tv/cctv13.php
+CCTV-13æ°é»,http://8.138.7.223/tv/fytv.php?id=5
+CCTV-13æ°é»,http://106.53.99.30/tv/tju.php?id=42
+CCTV-14å°å¿,http://8.138.7.223/tv/fytv.php?id=6
+CCTV-16å¥¥æå¹å,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+ä¸æ¹å«è§,http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8
+å¹¿ä¸å«è§,http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
+æ±è¥¿å«è§,http://by4.nty.tv189.cn/live/tm-ysjxws-4000k.m3u8
+åæå«è§,http://by4.nty.tv189.cn/live/tm-ysjlws-4000k.m3u8
+è¾½å®å«è§,http://by4.nty.tv189.cn/live/tm-dxlnws-4000k.m3u8
+æ¹åå«è§,http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
+æ²³åå«è§,http://by4.nty.tv189.cn/live/tm-dxhenanws-4000k.m3u8
+ä¸åå«è§,http://by4.nty.tv189.cn/live/tm-dxdnws-4000k.m3u8
+æµ·åå«è§,http://by4.nty.tv189.cn/live/tm-yshnws-4000k.m3u8
+éåºå«è§,http://by4.nty.tv189.cn/live/tm-xpcqws-4000k.m3u8
+çèå«è§,http://by4.nty.tv189.cn/live/tm-dxgsws-4000k.m3u8
+éè¥¿å«è§,http://by4.nty.tv189.cn/live/tm-yssxws-4000k.m3u8
+éæµ·å«è§,http://by4.nty.tv189.cn/live/tm-dxqhaiws-4000k.m3u8
+è¥¿èå«è§,http://by4.nty.tv189.cn/live/tm-dxxzws-4000k.m3u8
+æ°çå«è§,http://by4.nty.tv189.cn/live/tm-dxxjws-4000k.m3u8
+åµå¢å«è§,http://by4.nty.tv189.cn/live/tm-ysbtws-4000k.m3u8
+å®å¤å«è§,http://by4.nty.tv189.cn/live/tm-ysnxws-4000k.m3u8
+æµ·å³¡å«è§,http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
+CETV1,http://by4.nty.tv189.cn/live/tm-yszgjy1-500k.m3u8
+CETV2,http://by4.nty.tv189.cn/live/tm-yszgjy2-500k.m3u8
+CETV4,http://by4.nty.tv189.cn/live/tm-yszgjy4-500k.m3u8
+åä½³å¡é,http://by4.nty.tv189.cn/live/tm-xpjjktws-2000k.m3u8
+æ­å·çæ´»,http://by4.nty.tv189.cn/live/tm-hzshenghuo1-500k.m3u8
+ä¸æµ·æ°é»ç»¼å,http://by4.nty.tv189.cn/live/tm-xpxwzhws-2000k.m3u8
+å¹¿ä¸å«è§,http://8.138.7.223/tv/fytv.php?id=7
+æ¹åå«è§,http://8.138.7.223/tv/fytv.php?id=10
+æµæ±å«è§,http://8.138.7.223/tv/fytv.php?id=11
+æ±èå«è§,http://8.138.7.223/tv/fytv.php?id=12
+å±±è¥¿å«è§,http://8.138.7.223/tv/fytv.php?id=13
+éæµ·å«è§,http://8.138.7.223/tv/fytv.php?id=14
+åäº¬å«è§,http://8.138.7.223/tv/bj.php?id=bjws
+æµæ±å«è§,http://8.138.7.223/tv/zj.php?id=0001
+æ²³åå«è§,http://8.138.7.223/tv/hntv.php?id=hnws 
+è¾½å®å«è§,http://120.76.248.139/live/bfgd/4200000141.m3u8
+æµ·åå«è§,http://8.138.7.223/tv/hainan.php?id=hnws
+ä¸æ²å«è§,http://8.138.7.223/tv/hainan.php?id=ssws
+åèå¤å«è§,http://8.138.7.223/tv/nmg.php?id=1
+èå¤è¯­å«è§,http://8.138.7.223/tv/nmg.php?id=2
+æµ·å³¡å«è§,http://8.138.7.223/tv/hxws.m3u8
+è´µå·å«è§,http://8.138.7.223/tv/tx.php?u=http://9bwaz8y2.gzstv.com/live/CH01_lo
+è¥¿èå«è§,http://cdn.jdshipin.com:8880/xztv.php?id=ws
+è¥¿èèè¯­å«è§,http://cdn.jdshipin.com:8880/xztv.php?id=zy
+æ²³åå«è§,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+åæå«è§,https://live-master.jlntv.cn/jlwshd/sd/live.m3u8
+é»é¾æ±å«è§,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+å±±ä¸æè²å«è§,http://8.138.7.223/tv/api.php?id=sdetv
+åäº¬å«è§,http://8.138.7.223/tv/xxqg.php?id=bjws
+å¤©æ´¥å«è§,http://8.138.7.223/tv/xxqg.php?id=tjws
+æ²³åå«è§,http://8.138.7.223/tv/xxqg.php?id=hbws
+å±±è¥¿å«è§,http://8.138.7.223/tv/xxqg.php?id=sxws
+è¾½å®å«è§,http://8.138.7.223/tv/xxqg.php?id=lnws
+åèå¤å«è§,http://8.138.7.223/tv/xxqg.php?id=nmgws
+åæå«è§,http://8.138.7.223/tv/xxqg.php?id=jlws
+é»é¾æ±å«è§,http://8.138.7.223/tv/xxqg.php?id=hljws
+ä¸æ¹å«è§,http://8.138.7.223/tv/xxqg.php?id=dfws
+æ±èå«è§,http://8.138.7.223/tv/xxqg.php?id=jsws
+æµæ±å«è§,http://8.138.7.223/tv/xxqg.php?id=zjws
+å®å¾½å«è§,http://8.138.7.223/tv/xxqg.php?id=ahws
+ä¸åå«è§,http://8.138.7.223/tv/xxqg.php?id=dnws
+æ±è¥¿å«è§,http://8.138.7.223/tv/xxqg.php?id=jxws
+å±±ä¸å«è§,http://8.138.7.223/tv/xxqg.php?id=sdws
+æ²³åå«è§,http://8.138.7.223/tv/xxqg.php?id=henanws
+æ¹åå«è§,http://8.138.7.223/tv/xxqg.php?id=hubeiws
+å¹¿ä¸å«è§,http://8.138.7.223/tv/xxqg.php?id=gdws
+å¹¿è¥¿å«è§,http://8.138.7.223/tv/xxqg.php?id=gxws
+æµ·åå«è§,http://8.138.7.223/tv/xxqg.php?id=hainanws
+åå·å«è§,http://8.138.7.223/tv/xxqg.php?id=scws
+è´µå·å«è§,http://8.138.7.223/tv/xxqg.php?id=gzws
+äºåå«è§,http://8.138.7.223/tv/xxqg.php?id=ynws
+è¥¿èå«è§,http://8.138.7.223/tv/xxqg.php?id=xzws
+éè¥¿å«è§,http://8.138.7.223/tv/xxqg.php?id=shanxiws
+çèå«è§,http://8.138.7.223/tv/xxqg.php?id=gsws
+éæµ·å«è§,http://8.138.7.223/tv/xxqg.php?id=qhws
+å®å¤å«è§,http://8.138.7.223/tv/xxqg.php?id=nxws
+æ°çå«è§,http://8.138.7.223/tv/xxqg.php?id=xjws
+åµå¢å«è§,http://8.138.7.223/tv/xxqg.php?id=btws
+æµ·å³¡å«è§,http://8.138.7.223/tv/xxqg.php?id=hxws
+
+
+å¤®è§é¢é,#genre#
+
+CCTV-1ç»¼å,http://ahmaslt.sohu.blog:8000/hls/1/index.m3u8
+CCTV-2è´¢ç»,http://ahmaslt.sohu.blog:8000/hls/2/index.m3u8
+CCTV-3ç»¼èº,http://ahmaslt.sohu.blog:8000/hls/3/index.m3u8
+CCTV-4å½é,http://ahmaslt.sohu.blog:8000/hls/4/index.m3u8
+CCTV-5ä½è²,http://ahmaslt.sohu.blog:8000/hls/5/index.m3u8
+CCTV-6çµå½±,http://ahmaslt.sohu.blog:8000/hls/6/index.m3u8
+CCTV-7åäº,http://ahmaslt.sohu.blog:8000/hls/7/index.m3u8
+CCTV-8çµè§,http://ahmaslt.sohu.blog:8000/hls/8/index.m3u8
+CCTV-9çºªå½,http://ahmaslt.sohu.blog:8000/hls/9/index.m3u8
+CCTV-10ç§æ,http://ahmaslt.sohu.blog:8000/hls/10/index.m3u8
+CCTV-11ææ²,http://ahmaslt.sohu.blog:8000/hls/11/index.m3u8
+CCTV-12ç¤¾æ³,http://ahmaslt.sohu.blog:8000/hls/12/index.m3u8
+CCTV-13æ°é»,http://ahmaslt.sohu.blog:8000/hls/13/index.m3u8
+CCTV-14å°å¿,http://ahmaslt.sohu.blog:8000/hls/14/index.m3u8
+CCTV-15é³ä¹,http://ahmaslt.sohu.blog:8000/hls/15/index.m3u8
+CCTV-17åæ,http://ahmaslt.sohu.blog:8000/hls/16/index.m3u8
+CCTV-5+èµäº,http://ahmaslt.sohu.blog:8000/hls/18/index.m3u8
+CETV1,http://ahmaslt.sohu.blog:8000/hls/19/index.m3u8
+cgtn,http://ahmaslt.sohu.blog:8000/hls/20/index.m3u8
+CETV2,http://ahmaslt.sohu.blog:8000/hls/21/index.m3u8
+CETV4,http://ahmaslt.sohu.blog:8000/hls/22/index.m3u8
+
+å«è§é¢é,#genre#
+å®å¾½å«è§,http://ahmaslt.sohu.blog:8000/hls/23/index.m3u8
+ä¸åå«è§,http://ahmaslt.sohu.blog:8000/hls/24/index.m3u8
+äºåå«è§,http://ahmaslt.sohu.blog:8000/hls/26/index.m3u8
+ä¸æ¹å«è§,http://ahmaslt.sohu.blog:8000/hls/25/index.m3u8
+åµå¢å«è§,http://ahmaslt.sohu.blog:8000/hls/27/index.m3u8
+åäº¬å«è§,http://ahmaslt.sohu.blog:8000/hls/29/index.m3u8
+åèå¤å«è§,http://ahmaslt.sohu.blog:8000/hls/28/index.m3u8
+åæå«è§,http://ahmaslt.sohu.blog:8000/hls/30/index.m3u8
+åå·å«è§,http://ahmaslt.sohu.blog:8000/hls/31/index.m3u8
+å¤©æ´¥å«è§,http://ahmaslt.sohu.blog:8000/hls/32/index.m3u8
+å®å¤å«è§,http://ahmaslt.sohu.blog:8000/hls/33/index.m3u8
+å±±ä¸å«è§,http://ahmaslt.sohu.blog:8000/hls/34/index.m3u8
+å±±è¥¿å«è§,http://ahmaslt.sohu.blog:8000/hls/35/index.m3u8
+å¹¿ä¸å«è§,http://ahmaslt.sohu.blog:8000/hls/36/index.m3u8
+æ±èå«è§,http://ahmaslt.sohu.blog:8000/hls/38/index.m3u8
+å¹¿è¥¿å«è§,http://ahmaslt.sohu.blog:8000/hls/37/index.m3u8
+æ±è¥¿å«è§,http://ahmaslt.sohu.blog:8000/hls/39/index.m3u8
+æ²³åå«è§,http://ahmaslt.sohu.blog:8000/hls/41/index.m3u8
+æ²³åå«è§,http://ahmaslt.sohu.blog:8000/hls/40/index.m3u8
+æµæ±å«è§,http://ahmaslt.sohu.blog:8000/hls/42/index.m3u8
+æ¹åå«è§,http://ahmaslt.sohu.blog:8000/hls/44/index.m3u8
+çèå«è§,http://ahmaslt.sohu.blog:8000/hls/45/index.m3u8
+æ¹åå«è§,http://ahmaslt.sohu.blog:8000/hls/43/index.m3u8
+è´µå·å«è§,http://ahmaslt.sohu.blog:8000/hls/46/index.m3u8
+è¾½å®å«è§,http://ahmaslt.sohu.blog:8000/hls/48/index.m3u8
+éåºå«è§,http://ahmaslt.sohu.blog:8000/hls/49/index.m3u8
+éè¥¿å«è§,http://ahmaslt.sohu.blog:8000/hls/50/index.m3u8
+é»é¾æ±å«è§,http://ahmaslt.sohu.blog:8000/hls/52/index.m3u8
+éæµ·å«è§,http://ahmaslt.sohu.blog:8000/hls/51/index.m3u8
+æ·±å³å«è§,http://ahmaslt.sohu.blog:8000/hls/56/index.m3u8
+å¦é¨å«è§,http://ahmaslt.sohu.blog:8000/hls/53/index.m3u8
+è¥¿èå«è§,http://ahmaslt.sohu.blog:8000/hls/55/index.m3u8
+æ°çå«è§,http://ahmaslt.sohu.blog:8000/hls/54/index.m3u8
+å±±ä¸æè²,http://ahmaslt.sohu.blog:8000/hls/57/index.m3u8
+æµ·åå«è§,http://ahmaslt.sohu.blog:8000/hls/59/index.m3u8
+
+ææ°ä¸çº¿,#genre#
+CCTV1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://218.17.33.178:53290/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+å±±ä¸å«è§,http://218.17.33.178:53290/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+å¹¿ä¸å«è§,http://218.17.33.178:53290/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+çèå«è§,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+åèå¤å«è§,http://218.17.33.178:53290/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+æ¹åå«è§,http://218.17.33.178:53290/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+æµæ±å«è§,http://218.17.33.178:53290/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+æ°çå«è§,http://218.17.33.178:53290/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+æ¹åå«è§,http://218.17.33.178:53290/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+åå·å«è§,http://218.17.33.178:53290/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+æ±è¥¿å«è§,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+è¾½å®å«è§,http://218.17.33.178:53290/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+éè¥¿å«è§,http://172.16.31.251:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+å®å¾½å«è§,http://172.16.31.251:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+æ·±å³å«è§,http://172.16.31.251:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+åæå«è§,http://172.16.31.251:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+ä¸æµ·å«è§,http://172.16.31.251:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+åäº¬å«è§,http://172.16.31.251:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+ä¸åå«è§,http://172.16.31.251:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+æ²³åå«è§,http://172.16.31.251:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+å±±è¥¿å«è§,http://172.16.31.251:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+è¥¿èå«è§,http://172.16.31.251:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+æ±èå«è§,http://172.16.31.251:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+æ²³åå«è§,http://172.16.31.251:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+éæµ·å«è§,http://172.16.31.251:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+å®å¤å«è§,http://172.16.31.251:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+éåºå«è§,http://172.16.31.251:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+äºåå«è§,http://172.16.31.251:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+è´µå·å«è§,http://172.16.31.251:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+é»é¾æ±å«è§,http://172.16.31.251:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+å¤©æ´¥å«è§,http://172.16.31.251:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://218.17.33.178:53290/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+åä½³å¡é,http://172.16.31.251:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+å¹¿ä¸å°å¿,http://172.16.31.251:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+åªå01,#genre#
+CCTV-01åªå,http://go.bkpcp.top/mg/cctv1
+CCTV-02åªå,http://go.bkpcp.top/mg/cctv2
+CCTV-03åªå,http://go.bkpcp.top/mg/cctv3
+CCTV-04åªå,http://go.bkpcp.top/mg/cctv4
+CCTV-05åªå,http://go.bkpcp.top/mg/cctv5
+CCTV-5+åªå,http://go.bkpcp.top/mg/cctv5p
+CCTV-06åªå,http://go.bkpcp.top/mg/cctv6
+CCTV-07åªå,http://go.bkpcp.top/mg/cctv7
+CCTV-08åªå,http://go.bkpcp.top/mg/cctv8
+CCTV-09åªå,http://go.bkpcp.top/mg/cctv9
+CCTV-10åªå,http://go.bkpcp.top/mg/cctv10
+CCTV-11åªå,http://go.bkpcp.top/mg/cctv11
+CCTV-12åªå,http://go.bkpcp.top/mg/cctv12
+CCTV-13åªå,http://go.bkpcp.top/mg/cctv13
+CCTV-14åªå,http://go.bkpcp.top/mg/cctv14
+CCTV-15åªå,http://go.bkpcp.top/mg/cctv15
+CCTV-16åªå,http://go.bkpcp.top/mg/cctv16
+CCTV-17åªå,http://go.bkpcp.top/mg/cctv17
+cct4æ¬§æ´²åªå,http://go.bkpcp.top/mg/cctv4o
+cct4ç¾æ´²åªå,http://go.bkpcp.top/mg/cctv4m
+CGTN-è¥¿åªå,http://go.bkpcp.top/mg/cgtne
+CGTN-é¿åªå,http://go.bkpcp.top/mg/cgtna
+CGTN-æ³åªå,http://go.bkpcp.top/mg/cgtnf
+åäº¬å«è§åªå,http://go.bkpcp.top/mg/bjws
+ä¸æ¹å«è§åªå,http://go.bkpcp.top/mg/dfws
+æµæ±å«è§åªå,http://go.bkpcp.top/mg/zjws
+æ±èå«è§åªå,http://go.bkpcp.top/mg/jsws
+æ¹åå«è§åªå,http://go.bkpcp.top/mg/hunws
+å¹¿ä¸å«è§åªå,http://go.bkpcp.top/mg/gdws
+æ·±å³å«è§åª4k,http://go.bkpcp.top/mg/szws
+å±±ä¸å«è§åªå,http://go.bkpcp.top/mg/sdws
+æ²³åå«è§åªå,http://go.bkpcp.top/mg/hnws
+æ±è¥¿å«è§åªå,http://go.bkpcp.top/mg/jxws
+æ¹åå«è§åªå,http://go.bkpcp.top/mg/hubws
+æµ·åå«è§åªå,http://go.bkpcp.top/mg/hinws
+éè¥¿å«è§åªå,http://go.bkpcp.top/mg/sxws
+åµå¢å«è§åªå,http://go.bkpcp.top/mg/btws
+é»é¾æ±è§åªå,http://go.bkpcp.top/mg/hljws
+
+åªå02,#genre#
+CCTV-01åªå,http://t.061899.xyz/tl/tl.php?id=cctv1
+CCTV-02åªå,http://t.061899.xyz/tl/tl.php?id=cctv2
+CCTV-03åªå,http://t.061899.xyz/tl/tl.php?id=cctv3
+CCTV-04åªå,http://t.061899.xyz/tl/tl.php?id=cctv4
+CCTV-05åªå,http://t.061899.xyz/tl/tl.php?id=cctv5
+CCTV-5+åªå,http://t.061899.xyz/tl/tl.php?id=cctv5p
+CCTV-06åªå,http://t.061899.xyz/tl/tl.php?id=cctv6
+CCTV-07åªå,http://t.061899.xyz/tl/tl.php?id=cctv7
+CCTV-08åªå,http://t.061899.xyz/tl/tl.php?id=cctv8
+CCTV-09åªå,http://t.061899.xyz/tl/tl.php?id=cctv9
+CCTV-10åªå,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV-11åªå,http://t.061899.xyz/tl/tl.php?id=cctv11
+CCTV-12åªå,http://t.061899.xyz/tl/tl.php?id=cctv12
+CCTV-13åªå,http://t.061899.xyz/tl/tl.php?id=cctv13
+CCTV-14åªå,http://t.061899.xyz/tl/tl.php?id=cctv14
+CCTV-15åªå,http://t.061899.xyz/tl/tl.php?id=cctv15
+CCTV-16åªå,http://t.061899.xyz/tl/tl.php?id=cctv16
+CCTV-17åªå,http://t.061899.xyz/tl/tl.php?id=cctv17
+åäº¬å«è§åªå,http://t.061899.xyz/tl/tl.php?id=bjws
+ä¸æ¹å«è§åªå,http://t.061899.xyz/tl/tl.php?id=dfws
+æµæ±å«è§åªå,http://t.061899.xyz/tl/tl.php?id=zjws
+æ±èå«è§åªå,http://t.061899.xyz/tl/tl.php?id=jsws
+æ¹åå«è§åªå,http://t.061899.xyz/tl/tl.php?id=hunws
+å¹¿ä¸å«è§åªå,http://t.061899.xyz/tl/tl.php?id=gdws
+æ·±å³å«è§åªå,http://t.061899.xyz/tl/tl.php?id=szws
+å¤©æ´¥å«è§åªå,http://t.061899.xyz/tl/tl.php?id=tjws
+å®å¾½å«è§åªå,http://t.061899.xyz/tl/tl.php?id=ahws
+å±±ä¸å«è§åªå,http://t.061899.xyz/tl/tl.php?id=sdws
+å±±è¥¿å«è§åªå,http://t.061899.xyz/tl/tl.php?id=sxiws
+è¾½å®å«è§åªå,http://t.061899.xyz/tl/tl.php?id=lnws
+æ²³åå«è§åªå,http://t.061899.xyz/tl/tl.php?id=hbws
+æ²³åå«è§åªå,http://t.061899.xyz/tl/tl.php?id=hnws
+æ±è¥¿å«è§åªå,http://t.061899.xyz/tl/tl.php?id=jxws
+åå·å«è§åªå,http://t.061899.xyz/tl/tl.php?id=scws
+éåºå«è§åªå,http://t.061899.xyz/tl/tl.php?id=cqws
+è´µå·å«è§åªå,http://t.061899.xyz/tl/tl.php?id=gzws
+æ¹åå«è§åªå,http://t.061899.xyz/tl/tl.php?id=hubws
+å¹¿è¥¿å«è§åªå,http://t.061899.xyz/tl/tl.php?id=gxws
+ä¸åå«è§åªå,http://t.061899.xyz/tl/tl.php?id=dnws
+æµ·åå«è§åªå,http://t.061899.xyz/tl/tl.php?id=hinws
+éæµ·å«è§åªå,http://t.061899.xyz/tl/tl.php?id=qhws
+å®å¤å«è§åªå,http://t.061899.xyz/tl/tl.php?id=nxws
+éè¥¿å«è§åªå,http://t.061899.xyz/tl/tl.php?id=sxws
+çèå«è§åªå,http://t.061899.xyz/tl/tl.php?id=gsws
+æ°çå«è§åªå,http://t.061899.xyz/tl/tl.php?id=xjws
+åæå«è§åªå,http://t.061899.xyz/tl/tl.php?id=jlws
+è¥¿èå«è§åªå,http://t.061899.xyz/tl/tl.php?id=xzws
+åèå¤è§åªå,http://t.061899.xyz/tl/tl.php?id=nmgws
+é»é¾æ±è§åªå,http://t.061899.xyz/tl/tl.php?id=hljws
+
+
+4Kä¸åº,#genre#
+
+æµæ±å«è§4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
+æ¹åå«è§4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+æ·±å³å«è§4K,http://8.138.7.223/tv/gd.php?id=0200
+æ·±å³å«è§4K,http://8.138.7.223/tv/gd.php?id=02001
+æ±èå«è§4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
+
+å°æ¹¾é¢é,#genre#
+æ çº¿ç¿¡ç¿ é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+æ çº¿æç é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+Plusç»¼åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+å¤å°ä¸­æé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+å¤å°èµè®¯é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+å¤å°é¦æ¸¯é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+æçº¿æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
+æçº¿æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
+æ çº¿æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+Nowæ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=nowxwt
+æçº¿ç»¼åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hoytv
+æçº¿èµè®¯é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
+æçº¿èµé©¬é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
+æçº¿èµé©¬é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
+Nowç´æ­é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=nowzbt
+Nowè´¢ç»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=nowcjt
+VIUTVç²¤é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=viutv
+VIUTVè±é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=6viutv
+RTHK-31é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=31gtds
+RTHK-32é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=32gtds
+ä¸­å¤©æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=ztxwt
+ä¸­å¤©æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=ztxw
+å¯°å®æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hyxwt
+å¯°å®æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
+ä¸æ£®æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=dsxwt
+ä¸æ£®æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=dsxw
+tvbsæ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
+tvbsæ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
+ä¸ç«æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=slxwt
+éå¡æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=ffxw
+é½éæ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
+é½éæ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jxw
+æ°è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=msxwt
+æ°è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=msxwt1
+ä¸­è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=zsxwt
+ä¸­è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=zsxw
+åè§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hsxwt
+åè§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hsxw
+å°è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tsxwt
+å°è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tsxw
+å¬è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hdgs
+æ°è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hdms
+æ°è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=ms
+ä¸­è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hdzs
+ä¸­è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=zs
+åè§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hdhs
+åè§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hs
+å°è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hdts
+å°è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=ts
+tvbsé½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbshd
+tvbsé½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbshd1
+å¯°å®é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt
+å¯°å®é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hyxwtwt1
+å¯°å®è´¢ç»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=hycjt
+é½åæå§é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=twxjt
+å¬è§æå§é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=gsxj
+æ°è§é½è¯­é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=mstwt
+æ°è§ç¬¬ä¸é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=msdyt
+æ°è§å½±å§é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=msyj
+æ°è§ç»¼èºé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=mszy
+æ°è§ææ¸¸é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=msly
+ä¸­è§ç»å¸é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=zsjd
+ä¸­è§èéé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=zsjc
+å°è§è´¢ç»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tscj
+ä¸­å¤©äºæ´²é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=ztyzt
+ä¸ç«é½åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=sltwt
+å«å¤§ç²¾å½©é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=bdjct
+å«å¤§ç»¼èºé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=bdzyt
+tvbsç²¾éé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbsjct
+tvbsæ¬¢ä¹é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=tvbshlt
+ä¸æ£®è´¢ç»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=dscjxw
+é¾åçµå½±é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=lhdy
+é¾åå¡éé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=lhkt
+é¾åæ¥é©é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=lhrh
+é¾åå¶åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=lhox
+é¾åç»å¸é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=lhjd
+é¾åæå§é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=lhxj
+çº¬æ¥ä½è²é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=wltyt
+çº¬æ¥æ¥æ¬é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=wlrbt
+çº¬æ¥è²ä¹é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=wlylt
+éå¤©çµå½±é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtdyt
+éå¤©æ¬¢ä¹é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jthlt
+éå¤©ç»¼åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtzht
+éå¤©èµè®¯é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtzxt
+éå¤©æ¥æ¬é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtrbt
+éå¤©å½éé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtgjt
+éå¤©è²ä¹é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtylt
+éå¤©æ ç»é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtyh
+éå¤©æå§é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtxjt
+éå¤©å¡éé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jtktt
+éæ´æå§é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jyxjt
+éæ´å¡éé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=jyktt
+å®¢å®¶çµè§é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=kjdst
+äºæ´²ææ¸¸é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=yzlyt
+Discoveré¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=discovery
+DAZN-å£¹é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=1dazn
+DAZN-è´°é¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=2dazn
+åæ¯é­åé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=bsml
+åæ¯ç½çé¢ä¸´,http://t.061899.xyz/tl/js/js.php?id=bswq
+åæ¯æ éå£¹é,http://t.061899.xyz/tl/js/js.php?id=bswx
+åæ¯æ éè´°é,http://t.061899.xyz/tl/js/js.php?id=2bswx
+åæ¯è¿å¨å£¹é,http://t.061899.xyz/tl/js/js.php?id=1bsyd
+åæ¯è¿å¨è´°é,http://t.061899.xyz/tl/js/js.php?id=2bsyd
+åæ¯é«çå£¹é,http://t.061899.xyz/tl/js/js.php?id=1bsgq
+åæ¯é«çè´°é,http://t.061899.xyz/tl/js/js.php?id=2bsgq
+æ¶å°è¿å¨é¢é,http://t.061899.xyz/tl/js/js.php?id=xssyd
+æºæä½è²é¢é,http://t.061899.xyz/tl/js/js.php?id=zltyt
+ELtaä½è²å£¹é,http://t.061899.xyz/tl/js/js.php?id=1aedtyt
+ELtaä½è²è´°é,http://t.061899.xyz/tl/js/js.php?id=2aedtyt
+ELtaä½è²åé,http://t.061899.xyz/tl/js/js.php?id=3aedtyt
+ELtaä½è²èé,http://t.061899.xyz/tl/js/js.php?id=4aedtyt
+ELtaå¨±ä¹é¢é,http://t.061899.xyz/tl/js/js.php?id=aedyl
+å¥½è±çµå½±é¢é,http://t.061899.xyz/tl/js/js.php?id=hlwdy
+HBOé«æ¸é¢é,http://t.061899.xyz/tl/js/js.php?id=hbohd
+FgMçµå½±é¢é,http://t.061899.xyz/tl/js/js.php?id=ymswdyt
+Amcçµå½±é¢é,http://t.061899.xyz/tl/js/js.php?id=amcdyt
+ç±æ¾å¨æ¼«é¢é,http://t.061899.xyz/tl/js/js.php?id=afdm
+å¤å¸é³ä¹é¢é,http://t.061899.xyz/tl/js/js.php?id=gdyyt
+çªå¥æ­åé¢é,http://t.061899.xyz/tl/js/js.php?id=zglgtx
+Smaç¥è¯é¢é,http://t.061899.xyz/tl/js/js.php?id=smartzst
+è¾¾æè¥¿ç»¼é¢é,http://t.061899.xyz/tl/js/js.php?id=dwxpd
+é¿ééç»¼é¢é,http://t.061899.xyz/tl/js/js.php?id=all
+çæ´»è±è¯­é¢é,http://t.061899.xyz/tl/js/js.php?id=shyyt
+å½éè´¢ç»é¢é,http://t.061899.xyz/tl/js/js.php?id=gjcj
+ç¾å½ä¹é³é¢é,http://t.061899.xyz/tl/js/js.php?id=mgzy
+éå¡åä¸é¢é,http://t.061899.xyz/tl/js/js.php?id=ffsy
+å¤§ç±å£¹å°é¢é,http://t.061899.xyz/tl/js/js.php?id=dayt
+å¤§ç±è´°å°é¢é,http://t.061899.xyz/tl/js/js.php?id=daet
+å¥½æ¶æ¯å£¹é¢é,http://t.061899.xyz/tl/js/js.php?id=hxx
+å¥½æ¶æ¯è´°é¢é,http://t.061899.xyz/tl/js/js.php?id=2hxxt
+å½ä¼é¢éå£¹é,http://t.061899.xyz/tl/js/js.php?id=1ghpd
+å½ä¼é¢éè´°é,http://t.061899.xyz/tl/js/js.php?id=2ghpd
+éæå½±å§é¢é,http://t.061899.xyz/tl/js/js.php?id=ccyj
+é©å½å¨±ä¹é¢é,http://t.061899.xyz/tl/js/js.php?id=hgylt
+CNNæ°é»é¢é,http://t.061899.xyz/tl/js/js.php?id=cnnxw
+åå²æ°é»é¢é,http://t.061899.xyz/tl/js/js.php?id=bdxw
+MEZZOlIé¢é,http://t.061899.xyz/tl/js/js.php?id=mezzolive
+
+æ¸¯å°å¤ç¨,#genre#
+TVBåç¦§ç»å¸å°,http://j.s.bkpcp.top/jj/tvbqxjd
+å¤©æ ç»å¸,http://j.s.bkpcp.top/jj/tyjd
+å¤©æ é¢éHD,http://j.s.bkpcp.top/jj/celestialmovieshd
+å¤©æ é¢é,http://j.s.bkpcp.top/jj/typd
+HOY78,http://j.s.bkpcp.top/jj/hoy78
+RTHK31,http://j.s.bkpcp.top/jj/rthk31
+RTHK32,http://j.s.bkpcp.top/jj/rthk32
+RTHK33,http://j.s.bkpcp.top/jj/rthk33
+RTHK34,http://j.s.bkpcp.top/jj/rthk34
+RTHK35,http://j.s.bkpcp.top/jj/rthk35
+RHK 31,http://j.s.bkpcp.top/jj/31rhk
+RHK 32,http://j.s.bkpcp.top/jj/32rhk
+VIUTV1,http://j.s.bkpcp.top/jj/1viutv
+Viu6,http://j.s.bkpcp.top/jj/6viu
+ä¸­å¤©æ°é»,http://j.s.bkpcp.top/jj/ztxw
+å¯°å®æ°é»,http://j.s.bkpcp.top/jj/hyxw
+HBO,http://j.s.bkpcp.top/jj/hbo
+HBO Family,http://j.s.bkpcp.top/jj/hbofamily
+HBO HD,http://j.s.bkpcp.top/jj/hbohd
+HBO Family,http://j.s.bkpcp.top/jj/hbofamily1
+HBO_HITS,http://j.s.bkpcp.top/jj/hbohits
+AMCé»å½±å°,http://j.s.bkpcp.top/jj/amcdyt
+ç¾äºé»å½±,http://j.s.bkpcp.top/jj/mydy1
+ç¾äºé»å½±,http://j.s.bkpcp.top/jj/mydy
+å¥½èå¡¢é»å½±å°,http://j.s.bkpcp.top/jj/hlwdyt
+åå®¶å°ç,http://j.s.bkpcp.top/jj/gjdl
+åç©æç,http://j.s.bkpcp.top/jj/dwxq
+æ±æ£®æ²å,http://j.s.bkpcp.top/jj/dsxj
+æ±æ£®æ´ç,http://j.s.bkpcp.top/jj/dsyp
+æ±æ£®é»å½±,http://j.s.bkpcp.top/jj/dsdy
+æ±æ£®å¹¼å¹¼ Yoyo TV,http://j.s.bkpcp.top/jj/yoyotvdsyy
+ç·¯ä¾é«è²å°,http://j.s.bkpcp.top/jj/wltyt
+çº¬æ¥çµå½±å°,http://j.s.bkpcp.top/jj/wldy
+CNå¡é,http://j.s.bkpcp.top/jj/cnkt
+éå¤©å¡éå°,http://j.s.bkpcp.top/jj/jtktt
+é¾ç¥¥æä»£,http://j.s.bkpcp.top/jj/lxsd
+é¾è¯å¶å,http://j.s.bkpcp.top/jj/lhox
+é¾è¯æ²å,http://j.s.bkpcp.top/jj/lhxj
+é¾è¯æ´ç,http://j.s.bkpcp.top/jj/lhyp
+é¾è¯ç¶å¸,http://j.s.bkpcp.top/jj/lhjd
+é¾è¯é»å½±,http://j.s.bkpcp.top/jj/lhdy
+Movies Now HD,http://j.s.bkpcp.top/jj/moviesnow
+Star Movies HD,http://j.s.bkpcp.top/jj/starmovies
+AXN,http://j.s.bkpcp.top/jj/axn
+å£¹çµå½±,http://j.s.bkpcp.top/jj/ydy
+ELTAå½±å§,http://j.s.bkpcp.top/jj/aedyjt
+ELTAä½è²1,http://j.s.bkpcp.top/jj/aedty1
+ELTAä½è²2,http://j.s.bkpcp.top/jj/aedty2
+ELTAä½è²3,http://j.s.bkpcp.top/jj/aedty3
+ELTAä½è²4,http://j.s.bkpcp.top/jj/aedty4
+åæ¯ç¶²ç,http://j.s.bkpcp.top/jj/bswq
+åæ¯æ é,http://j.s.bkpcp.top/jj/bswx
+åæ¯éå1,http://j.s.bkpcp.top/jj/bsyd1
+åæ¯éå2,http://j.s.bkpcp.top/jj/bsyd2
+åæ¯é«ç1,http://j.s.bkpcp.top/jj/bsgq1
+åæ¯é«ç2,http://j.s.bkpcp.top/jj/bsgq2
+NBA,http://j.s.bkpcp.top/jj/nba
+AEC,http://j.s.bkpcp.top/jj/aec
+è¯éºå° HD,http://j.s.bkpcp.top/jj/hdhlt
+æ­¡åå° HD,http://j.s.bkpcp.top/jj/hdhxt
+æ­¡åå°(åç¨),http://j.s.bkpcp.top/jj/hxtby
+Astro QJ,http://j.s.bkpcp.top/jj/astroqj
+AOD,http://j.s.bkpcp.top/jj/aod
+æå¥è,http://j.s.bkpcp.top/jj/aqy
+Animax,http://j.s.bkpcp.top/jj/animax
+Rock Actions,http://j.s.bkpcp.top/jj/rockactions
+Rock Entertainment,http://j.s.bkpcp.top/jj/rockentertainment
+Astrol Kplus,http://j.s.bkpcp.top/jj/astrolkplus
+CINEMAX,http://j.s.bkpcp.top/jj/cinemax
+Nick Jr,http://j.s.bkpcp.top/jj/nickjr
+Nickelodeon,http://j.s.bkpcp.top/jj/nickelodeon
+ä¸­å¤©æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdztxw
+ä¸æ£®æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hddsxw
+ä¸ç«æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdslxw
+éå¡æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdffxw
+é½å£¹æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdyxw
+æ°è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdmsxw
+ä¸­è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdzsxw
+åè§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdhsxw
+å°è§æ°é»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
+å¬è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdgs
+æ°è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdms
+ä¸­è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdzs
+åè§é½åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdhs
+å°è§é½åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdts
+å¬è§è´°å°é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=2hdgs
+å¬è§åå°é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=3hdgs
+æ°è§é½è¯­é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdmstw
+æ°è§ç¬¬ä¸é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdmsdyt
+ä¸­è§ç»å¸é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=zsjd
+ä¸­è§èéé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=zsjc
+åè§æè²é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdhsjywh
+å°è§ç»¼åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=tszh
+å°è§è´¢ç»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=tscj
+ä¸­å¤©ç»¼åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdztzh
+ä¸­å¤©å¨±ä¹é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdztyl
+ä¸ç«é½åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdsltwt
+ä¸ç«é½ä¼é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdsldht
+ä¸ç«æå§é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdslxj
+ä¸ç«è´¢ç»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdslcj
+å«å¤§ç¬¬ä¸é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdbddy
+å«å¤§ç»¼åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdbdzh
+å«å¤§æå§é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdbdxj
+ä¸æ£®æå§é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hddsxj
+ä¸æ£®è¶è§é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hddscs
+ä¸æ£®è´¢ç»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hddscj
+é¾ç¿çµå½±é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdlxdy
+é¾åæ´çé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdlhyp
+çº¬æ¥ç²¾éé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdwljc
+å®¢å®¶çµè§é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdkjds
+åæ°çµè§é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdymds
+æ¢ç´¢ç§å­¦é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdtskx
+å±å®¶ä¹æ´»é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdjjlh
+åå²é¢éé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdlspd
+åçº³çµå½±é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=hdhndy
+AXNæ´çé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=axnhdyp
+MO_äº²å­é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=momoqzt
+TLC-ææ¸¸é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=tlchdlypd
+JET-ç»¼åé¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=jetzht
+Discoveré¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=discoveryhd
+Cinema_é¢ä¸´,http://t.061899.xyz/tl/js/tw.php?id=cinemaworldhd
+NOWçè°·,http://8.138.7.223/tv/bkpcp.php?id=nowbgt
+NOWæå½±,http://8.138.7.223/tv/bkpcp.php?id=nowxyt
+å¤å°ä¸­æ,http://8.138.7.223/tv/bkpcp.php?id=fhzw
+å¤å°èµè®¯,http://8.138.7.223/tv/bkpcp.php?id=fhzx
+å¤å°é¦æ¸¯,http://8.138.7.223/tv/bkpcp.php?id=fhxg
+åªå,http://go.061899.xyz/mg/cctv1
+CCTV-01é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+CCTV-02é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+CCTV-03é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+CCTV-04é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+CCTV-05é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV-5+é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+CCTV-06é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+CCTV-07é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+CCTV-08é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+CCTV-09é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV-10é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+CCTV-11é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+CCTV-12é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+CCTV-13é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+CCTV-14é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+CCTV-15é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+CCTV-16é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV-17é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+åäº¬å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+ä¸æ¹å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+æµæ±å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+æ±èå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
+æ¹åå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+å¹¿ä¸å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+æ·±å³å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
+å¤©æ´¥å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
+å®å¾½å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
+å±±ä¸å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
+è¾½å®å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+æ²³åå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
+æ²³åå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
+æ±è¥¿å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
+åå·å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+éåºå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+è´µå·å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+æ¹åå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+å¹¿è¥¿å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
+ä¸åå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
+æµ·åå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
+éæµ·å«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+åæå«è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
+é»é¾æ±è§é«ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+
