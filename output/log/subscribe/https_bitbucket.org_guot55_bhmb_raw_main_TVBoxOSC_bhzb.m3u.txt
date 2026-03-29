@@ -454,955 +454,955 @@ https://cdn10.163189.xyz/163189/typd
 #EXTINF:-1 tvg-name="å¤©æ ç»å¸" tvg-logo="https://logo.catvod.com/å¤©æ ç»å¸.png" group-title="æ¸¯æ¾³æ¨æµ",å¤©æ ç»å¸
 https://cdn10.163189.xyz/163189/ccm
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="ð¨ð³ ä¸­å | China",CCTV-1 ç¶å
-http://pixman.passwdwork.us.ci/smt/cctv1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv1/
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="ð¨ð³ ä¸­å | China",CCTV-2 è²¡ç¶
-http://pixman.passwdwork.us.ci/smt/cctv2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv2/
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="ð¨ð³ ä¸­å | China",CCTV-3 ç¶è
-http://pixman.passwdwork.us.ci/smt/cctv3/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv3/
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="ð¨ð³ ä¸­å | China",CCTV-4 ä¸­æåé
-http://pixman.passwdwork.us.ci/smt/Cctv4/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cctv4/
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="ð¨ð³ ä¸­å | China",CCTV-4 ä¸­æåé (å:1)
-http://pixman.passwdwork.us.ci/smt/cctv4/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv4/
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="ð¨ð³ ä¸­å | China",CCTV-6 é»å½±
-http://pixman.passwdwork.us.ci/smt/cctv6/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv6/
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="ð¨ð³ ä¸­å | China",CCTV-7 è»äºè¾²æ¥­
-http://pixman.passwdwork.us.ci/smt/cctv7/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv7/
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="ð¨ð³ ä¸­å | China",CCTV-8 é»è¦å
-http://pixman.passwdwork.us.ci/smt/cctv8hd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv8hd/
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="ð¨ð³ ä¸­å | China",CCTV-9 ç´é
-http://pixman.passwdwork.us.ci/smt/cctv9hd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv9hd/
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="ð¨ð³ ä¸­å | China",CCTV-10 ç§æ
-http://pixman.passwdwork.us.ci/smt/cctv10hd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv10hd/
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="ð¨ð³ ä¸­å | China",CCTV-11 æ²æ²
-http://pixman.passwdwork.us.ci/smt/cctv11/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv11/
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="ð¨ð³ ä¸­å | China",CCTV-12 ç¤¾æèæ³
-http://pixman.passwdwork.us.ci/smt/cctv12/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv12/
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="ð¨ð³ ä¸­å | China",CCTV-14 å°å
-http://pixman.passwdwork.us.ci/smt/cctv14/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv14/
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="ð¨ð³ ä¸­å | China",CCTV-15 é³æ¨
-http://pixman.passwdwork.us.ci/smt/cctv15/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv15/
 #EXTINF:-1 tvg-name="æ¹åå«è§" tvg-logo="https://logo.catvod.com/æ¹åå«è§.png" group-title="ð¨ð³ ä¸­å | China",æ¹åå«è§
-http://pixman.passwdwork.us.ci/smt/hunan_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hunan_twn/
 #EXTINF:-1 tvg-name="æµæ±å«è§" tvg-logo="https://logo.catvod.com/æµæ±å«è§.png" group-title="ð¨ð³ ä¸­å | China",æµæ±å«è§
-http://pixman.passwdwork.us.ci/smt/zhejiang_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhejiang_twn/
 #EXTINF:-1 tvg-name="æ±èå«è§" tvg-logo="https://logo.catvod.com/æ±èå«è§.png" group-title="ð¨ð³ ä¸­å | China",æ±èå«è§
-http://pixman.passwdwork.us.ci/smt/jiangsu_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jiangsu_twn/
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="ð¨ð³ ä¸­å | China",CCTV-13 æ°èèé »é
-http://pixman.passwdwork.us.ci/smt/cctv13/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv13/
 #EXTINF:-1 tvg-name="æ·±å³å«è§" tvg-logo="https://logo.catvod.com/æ·±å³å«è§.png" group-title="ð¨ð³ ä¸­å | China",æ·±å³å«è§
-http://pixman.passwdwork.us.ci/smt/shenzhen/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=shenzhen/
 #EXTINF:-1 tvg-name="ç¦å»ºä¸åå«è§" tvg-logo="https://logo.catvod.com/ç¦å»ºä¸åå«è§.png" group-title="ð¨ð³ ä¸­å | China",ç¦å»ºä¸åå«è§
-http://pixman.passwdwork.us.ci/smt/fujian/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=fujian/
 #EXTINF:-1 tvg-name="å¹¿ä¸åæ¹å«è§" tvg-logo="https://logo.catvod.com/å¹¿ä¸åæ¹å«è§.png" group-title="ð¨ð³ ä¸­å | China",å¹¿ä¸åæ¹å«è§
-http://pixman.passwdwork.us.ci/smt/nanfang_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nanfang_twn/
 #EXTINF:-1 tvg-name="å¹¿ä¸å«è§" tvg-logo="https://logo.catvod.com/å¹¿ä¸å«è§.png" group-title="ð¨ð³ ä¸­å | China",å¹¿ä¸å«è§
-http://pixman.passwdwork.us.ci/smt/guangdongweishi_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=guangdongweishi_twn/
 #EXTINF:-1 tvg-name="åäº¬å«è§" tvg-logo="https://logo.catvod.com/åäº¬å«è§.png" group-title="ð¨ð³ ä¸­å | China",åäº¬å«è§
-http://pixman.passwdwork.us.ci/smt/beijing/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=beijing/
 #EXTINF:-1 tvg-name="ç æ±å°" tvg-logo="https://logo.catvod.com/ç æ±å°.png" group-title="ð¨ð³ ä¸­å | China",ç æ±å°
-http://pixman.passwdwork.us.ci/smt/zhujiang/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhujiang/
 #EXTINF:-1 tvg-name="å¹¿è¥¿å«è§" tvg-logo="https://logo.catvod.com/å¹¿è¥¿å«è§.png" group-title="ð¨ð³ ä¸­å | China",å¹¿è¥¿å«è§
-http://pixman.passwdwork.us.ci/smt/guangxi/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=guangxi/
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="ð¨ð³ ä¸­å | China",CGTN
-http://pixman.passwdwork.us.ci/smt/CGTN/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
 #EXTINF:-1 tvg-name="æ¹åå«è§" tvg-logo="https://logo.catvod.com/æ¹åå«è§.png" group-title="ð¨ð³ ä¸­å | China",æ¹åå«è§
-http://pixman.passwdwork.us.ci/smt/hubei/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hubei/
 #EXTINF:-1 tvg-name="åå·å«è§" tvg-logo="https://logo.catvod.com/åå·å«è§.png" group-title="ð¨ð³ ä¸­å | China",åå·å«è§
-http://pixman.passwdwork.us.ci/smt/sichuan_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sichuan_twn/
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="ð¨ð³ ä¸­å | China",CCTV-5 é«è²
-http://pixman.passwdwork.us.ci/smt/cctv5/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5/
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="ð¨ð³ ä¸­å | China",CCTV-5+ é«è²
-http://pixman.passwdwork.us.ci/smt/cctv5plus/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5plus/
 #EXTINF:-1 tvg-name="ä¸æ¹å«è§" tvg-logo="https://logo.catvod.com/ä¸æ¹å«è§.png" group-title="ð¨ð³ ä¸­å | China",ä¸æ¹å«è§
-http://pixman.passwdwork.us.ci/smt/dongfangweishi_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dongfangweishi_twn/
 #EXTINF:-1 tvg-name="å¤å°å«è§" tvg-logo="https://logo.catvod.com/å¤å°å«è§.png" group-title="ð¨ð³ ä¸­å | China",å¤å°å«è§
-http://pixman.passwdwork.us.ci/smt/phoenixtv_hd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd/
 #EXTINF:-1 tvg-name="é³³å°è³è¨" tvg-logo="https://logo.catvod.com/é³³å°è³è¨.png" group-title="ð¨ð³ ä¸­å | China",é³³å°è³è¨
-http://pixman.passwdwork.us.ci/smt/phoenixinfo_hd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd/
 #EXTINF:-1 tvg-name="ç¿¡ç¿ å°" tvg-logo="https://logo.catvod.com/ç¿¡ç¿ å°.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",ç¿¡ç¿ å°
-http://pixman.passwdwork.us.ci/smt/jade_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jade_twn/
 #EXTINF:-1 tvg-name="ç¿¡ç¿ å° (Back up 1)" tvg-logo="https://logo.catvod.com/ç¿¡ç¿ å° (Back up 1).png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",ç¿¡ç¿ å° (Back up 1)
-http://pixman.passwdwork.us.ci/smt/jade_xue/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jade_xue/
 #EXTINF:-1 tvg-name="iNews äºåæ°èå°" tvg-logo="https://logo.catvod.com/iNews äºåæ°èå°.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",iNews äºåæ°èå°
-http://pixman.passwdwork.us.ci/smt/inews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=inews_twn/
 #EXTINF:-1 tvg-name="J 2" tvg-logo="https://logo.catvod.com/J 2.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",J 2
-http://pixman.passwdwork.us.ci/smt/j2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=j2_twn/
 #EXTINF:-1 tvg-name="çç å°" tvg-logo="https://logo.catvod.com/çç å°.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",çç å°
-http://pixman.passwdwork.us.ci/smt/pearl_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=pearl_twn/
 #EXTINF:-1 tvg-name="å¤å°é¦æ¸¯" tvg-logo="https://logo.catvod.com/å¤å°é¦æ¸¯.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",å¤å°é¦æ¸¯
-http://pixman.passwdwork.us.ci/smt/hkphoenix_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hkphoenix_twn/
 #EXTINF:-1 tvg-name="æ çº¿è´¢ç»èµè®¯å°" tvg-logo="https://logo.catvod.com/æ çº¿è´¢ç»èµè®¯å°.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",æ çº¿è´¢ç»èµè®¯å°
-http://pixman.passwdwork.us.ci/smt/hoycaijing_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hoycaijing_twn/
 #EXTINF:-1 tvg-name="RHK 31" tvg-logo="https://logo.catvod.com/RHK 31.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",RHK 31
-http://pixman.passwdwork.us.ci/smt/rhk31_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=rhk31_twn/
 #EXTINF:-1 tvg-name="VIUTV1" tvg-logo="https://logo.catvod.com/VIUTV1.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",VIUTV1
-http://pixman.passwdwork.us.ci/smt/viu1_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=viu1_twn/
 #EXTINF:-1 tvg-name="RHK 32" tvg-logo="https://logo.catvod.com/RHK 32.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",RHK 32
-http://pixman.passwdwork.us.ci/smt/rhk32_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=rhk32_twn/
 #EXTINF:-1 tvg-name="TVB Asia" tvg-logo="https://logo.catvod.com/TVB Asia.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",TVB Asia
-http://pixman.passwdwork.us.ci/smt/Tvbasia/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbasia/
 #EXTINF:-1 tvg-name="å¤å°å«è§" tvg-logo="https://logo.catvod.com/å¤å°å«è§.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",å¤å°å«è§
-http://pixman.passwdwork.us.ci/smt/phoenixtv_hd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd/
 #EXTINF:-1 tvg-name="é³³å°è³è¨" tvg-logo="https://logo.catvod.com/é³³å°è³è¨.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",é³³å°è³è¨
-http://pixman.passwdwork.us.ci/smt/phoenixinfo_hd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd/
 #EXTINF:-1 tvg-name="TVB Entertainment" tvg-logo="https://logo.catvod.com/TVB Entertainment.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",TVB Entertainment
-http://pixman.passwdwork.us.ci/smt/Tvbentertainment/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbentertainment/
 #EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://logo.catvod.com/TVB Classic.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",TVB Classic
-http://pixman.passwdwork.us.ci/smt/Tvbclassic/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbclassic/
 #EXTINF:-1 tvg-name="Viu6" tvg-logo="https://logo.catvod.com/Viu6.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",Viu6
-http://pixman.passwdwork.us.ci/smt/viusix_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=viusix_twn/
 #EXTINF:-1 tvg-name="TVBS æ­¡æ¨å°" tvg-logo="https://logo.catvod.com/TVBS æ­¡æ¨å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",TVBS æ­¡æ¨å°
-http://pixman.passwdwork.us.ci/smt/tvbshuanle_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn/
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://logo.catvod.com/TVBS HD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",TVBS HD
-http://pixman.passwdwork.us.ci/smt/tvbs/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs/
 #EXTINF:-1 tvg-name="ä¸­å¤©å¨±ä¹ CTI Entertaiment" tvg-logo="https://logo.catvod.com/ä¸­å¤©å¨±ä¹ CTI Entertaiment.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­å¤©å¨±ä¹ CTI Entertaiment
-http://pixman.passwdwork.us.ci/smt/ctient/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctient/
 #EXTINF:-1 tvg-name="ä¸­å¤©ç»¼å CTI Metro" tvg-logo="https://logo.catvod.com/ä¸­å¤©ç»¼å CTI Metro.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­å¤©ç»¼å CTI Metro
-http://pixman.passwdwork.us.ci/smt/ctizhonghe/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctizhonghe/
 #EXTINF:-1 tvg-name="ä¸­å¤©äºæ´²å°" tvg-logo="https://logo.catvod.com/ä¸­å¤©äºæ´²å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­å¤©äºæ´²å°
-http://pixman.passwdwork.us.ci/smt/ctiasia_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctiasia_twn/
 #EXTINF:-1 tvg-name="å°è§ TTV HD" tvg-logo="https://logo.catvod.com/å°è§ TTV HD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å°è§ TTV HD
-http://pixman.passwdwork.us.ci/smt/ttv_taiwan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttv_taiwan/
 #EXTINF:-1 tvg-name="å°è§ç»¼åå°" tvg-logo="https://logo.catvod.com/å°è§ç»¼åå°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å°è§ç»¼åå°
-http://pixman.passwdwork.us.ci/smt/ttvzhonghe/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvzhonghe/
 #EXTINF:-1 tvg-name="ä¸­è§ HD" tvg-logo="https://logo.catvod.com/ä¸­è§ HD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­è§ HD
-http://pixman.passwdwork.us.ci/smt/zhongshihd_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshihd_twn/
 #EXTINF:-1 tvg-name="æ°è§ HD" tvg-logo="https://logo.catvod.com/æ°è§ HD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ°è§ HD
-http://pixman.passwdwork.us.ci/smt/ftvhd_taiwan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan/
 #EXTINF:-1 tvg-name="æ°è§å°æ¹¾å°" tvg-logo="https://logo.catvod.com/æ°è§å°æ¹¾å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ°è§å°æ¹¾å°
-http://pixman.passwdwork.us.ci/smt/ftvtaiwan_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn/
 #EXTINF:-1 tvg-name="åè§ CTS HD" tvg-logo="https://logo.catvod.com/åè§ CTS HD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åè§ CTS HD
-http://pixman.passwdwork.us.ci/smt/ctshd_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctshd_twn/
 #EXTINF:-1 tvg-name="å¬è§ CTV" tvg-logo="https://logo.catvod.com/å¬è§ CTV.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¬è§ CTV
-http://pixman.passwdwork.us.ci/smt/ctv18_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv18_twn/
 #EXTINF:-1 tvg-name="å«å¤§ç¬¬ä¸ GTV First" tvg-logo="https://logo.catvod.com/å«å¤§ç¬¬ä¸ GTV First.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«å¤§ç¬¬ä¸ GTV First
-http://pixman.passwdwork.us.ci/smt/badafirst/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badafirst/
 #EXTINF:-1 tvg-name="å«å¤§ç»¼å GTV Metro" tvg-logo="https://logo.catvod.com/å«å¤§ç»¼å GTV Metro.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«å¤§ç»¼å GTV Metro
-http://pixman.passwdwork.us.ci/smt/badazhonghe/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badazhonghe/
 #EXTINF:-1 tvg-name="å«å¤§æå§ GTV Drama" tvg-logo="https://logo.catvod.com/å«å¤§æå§ GTV Drama.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«å¤§æå§ GTV Drama
-http://pixman.passwdwork.us.ci/smt/badadrama/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badadrama/
 #EXTINF:-1 tvg-name="å«å¤§å¨±ä¹ GTV Entertainment" tvg-logo="https://logo.catvod.com/å«å¤§å¨±ä¹ GTV Entertainment.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«å¤§å¨±ä¹ GTV Entertainment
-http://pixman.passwdwork.us.ci/smt/badaentertain/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badaentertain/
 #EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://logo.catvod.com/HBO_HD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",HBO_HD
-http://pixman.passwdwork.us.ci/smt/hbohd_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohd_twn/
 #EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://logo.catvod.com/HBO_HITS.png" group-title="ð¹ð¼ å°ç£ | Taiwan",HBO_HITS
-http://pixman.passwdwork.us.ci/smt/hbohits_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohits_twn/
 #EXTINF:-1 tvg-name="HBO Signature Taiwan" tvg-logo="https://logo.catvod.com/HBO Signature Taiwan.png" group-title="ð¹ð¼ å°ç£ | Taiwan",HBO Signature Taiwan
-http://pixman.passwdwork.us.ci/smt/hbosignature_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbosignature_twn/
 #EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://logo.catvod.com/Hollywood Movies.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Hollywood Movies
-http://pixman.passwdwork.us.ci/smt/hollywoodmovies_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn/
 #EXTINF:-1 tvg-name="ä¸ç«å°æ¹¾ Sanli Taiwan" tvg-logo="https://logo.catvod.com/ä¸ç«å°æ¹¾ Sanli Taiwan.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸ç«å°æ¹¾ Sanli Taiwan
-http://pixman.passwdwork.us.ci/smt/sanlitaiwan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlitaiwan/
 #EXTINF:-1 tvg-name="ä¸ç«æå§å°" tvg-logo="https://logo.catvod.com/ä¸ç«æå§å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸ç«æå§å°
-http://pixman.passwdwork.us.ci/smt/sanlixiju_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlixiju_twn/
 #EXTINF:-1 tvg-name="ä¸ç«ç»¼å Sanli Metro" tvg-logo="https://logo.catvod.com/ä¸ç«ç»¼å Sanli Metro.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸ç«ç»¼å Sanli Metro
-http://pixman.passwdwork.us.ci/smt/sanlizhonghe/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlizhonghe/
 #EXTINF:-1 tvg-name="ä¸ç«é½ä¼å°" tvg-logo="https://logo.catvod.com/ä¸ç«é½ä¼å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸ç«é½ä¼å°
-http://pixman.passwdwork.us.ci/smt/sanlidouhui_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlidouhui_twn/
 #EXTINF:-1 tvg-name="ä¸æ£®ç»¼å ETTV Metro" tvg-logo="https://logo.catvod.com/ä¸æ£®ç»¼å ETTV Metro.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®ç»¼å ETTV Metro
-http://pixman.passwdwork.us.ci/smt/ettvzhonghe/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvzhonghe/
 #EXTINF:-1 tvg-name="ä¸æ£®æå§ ETTV Drama" tvg-logo="https://logo.catvod.com/ä¸æ£®æå§ ETTV Drama.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®æå§ ETTV Drama
-http://pixman.passwdwork.us.ci/smt/ettvdrama/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvdrama/
 #EXTINF:-1 tvg-name="å¬è§2" tvg-logo="https://logo.catvod.com/å¬è§2.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¬è§2
-http://pixman.passwdwork.us.ci/smt/ctv2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv2_twn/
 #EXTINF:-1 tvg-name="å¤§ç±1å°" tvg-logo="https://logo.catvod.com/å¤§ç±1å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¤§ç±1å°
-http://pixman.passwdwork.us.ci/smt/daai_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai_twn/
 #EXTINF:-1 tvg-name="é¾åæå§ Lunghua Drama" tvg-logo="https://logo.catvod.com/é¾åæå§ Lunghua Drama.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾åæå§ Lunghua Drama
-http://pixman.passwdwork.us.ci/smt/lunghuaxiju_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn/
 #EXTINF:-1 tvg-name="é¾åç»å¸å°" tvg-logo="https://logo.catvod.com/é¾åç»å¸å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾åç»å¸å°
-http://pixman.passwdwork.us.ci/smt/lunghuajingdian_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn/
 #EXTINF:-1 tvg-name="é¾åå¶å" tvg-logo="https://logo.catvod.com/é¾åå¶å.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾åå¶å
-http://pixman.passwdwork.us.ci/smt/lunghuaidol_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn/
 #EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://logo.catvod.com/AXN Taiwan.png" group-title="ð¹ð¼ å°ç£ | Taiwan",AXN Taiwan
-http://pixman.passwdwork.us.ci/smt/axn_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=axn_twn/
 #EXTINF:-1 tvg-name="éå¤©å½éå°" tvg-logo="https://logo.catvod.com/éå¤©å½éå°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",éå¤©å½éå°
-http://pixman.passwdwork.us.ci/smt/jingtianintl_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtianintl_twn/
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://logo.catvod.com/CINEMAX.png" group-title="ð¹ð¼ å°ç£ | Taiwan",CINEMAX
-http://pixman.passwdwork.us.ci/smt/cinemax_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cinemax_twn/
 #EXTINF:-1 tvg-name="å¹´ä»£æ°é»" tvg-logo="https://logo.catvod.com/å¹´ä»£æ°é».png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¹´ä»£æ°é»
-http://pixman.passwdwork.us.ci/smt/niandainews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=niandainews_twn/
 #EXTINF:-1 tvg-name="çº¬æ¥æ¥æ¬å°" tvg-logo="https://logo.catvod.com/çº¬æ¥æ¥æ¬å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥æ¥æ¬å°
-http://pixman.passwdwork.us.ci/smt/videolandjapan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandjapan/
 #EXTINF:-1 tvg-name="çº¬æ¥çµå½±å°" tvg-logo="https://logo.catvod.com/çº¬æ¥çµå½±å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥çµå½±å°
-http://pixman.passwdwork.us.ci/smt/videolandmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandmovie/
 #EXTINF:-1 tvg-name="çº¬æ¥ä½è²å°" tvg-logo="https://logo.catvod.com/çº¬æ¥ä½è²å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥ä½è²å°
-http://pixman.passwdwork.us.ci/smt/videolandsport/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandsport/
 #EXTINF:-1 tvg-name="çº¬æ¥ç»¼åå°" tvg-logo="https://logo.catvod.com/çº¬æ¥ç»¼åå°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥ç»¼åå°
-http://pixman.passwdwork.us.ci/smt/videolandzonghe/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandzonghe/
 #EXTINF:-1 tvg-name="çº¬æ¥è²ä¹" tvg-logo="https://logo.catvod.com/çº¬æ¥è²ä¹.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥è²ä¹
-http://pixman.passwdwork.us.ci/smt/videolandmax/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandmax/
 #EXTINF:-1 tvg-name="çº¬æ¥ç²¾å½©" tvg-logo="https://logo.catvod.com/çº¬æ¥ç²¾å½©.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥ç²¾å½©
-http://pixman.passwdwork.us.ci/smt/videolandtv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandtv/
 #EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="ð¹ð¼ å°ç£ | Taiwan",DW (Deutsch)
-http://pixman.passwdwork.us.ci/smt/dw_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
 #EXTINF:-1 tvg-name="å¥½æ¶æ¯ 2" tvg-logo="https://logo.catvod.com/å¥½æ¶æ¯ 2.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¥½æ¶æ¯ 2
-http://pixman.passwdwork.us.ci/smt/good2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=good2_twn/
 #EXTINF:-1 tvg-name="å¤§ç±2å°" tvg-logo="https://logo.catvod.com/å¤§ç±2å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¤§ç±2å°
-http://pixman.passwdwork.us.ci/smt/daai2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai2_twn/
 #EXTINF:-1 tvg-name="äºæ´²ç¾é£" tvg-logo="https://logo.catvod.com/äºæ´²ç¾é£.png" group-title="ð¹ð¼ å°ç£ | Taiwan",äºæ´²ç¾é£
-http://pixman.passwdwork.us.ci/smt/afc_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=afc_twn/
 #EXTINF:-1 tvg-name="äºæ´²ææ¸¸ TLC Asia" tvg-logo="https://logo.catvod.com/äºæ´²ææ¸¸ TLC Asia.png" group-title="ð¹ð¼ å°ç£ | Taiwan",äºæ´²ææ¸¸ TLC Asia
-http://pixman.passwdwork.us.ci/smt/tlc_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tlc_twn/
 #EXTINF:-1 tvg-name="ä¸æ£®çµå½± ETTV Movie" tvg-logo="https://logo.catvod.com/ä¸æ£®çµå½± ETTV Movie.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®çµå½± ETTV Movie
-http://pixman.passwdwork.us.ci/smt/ettvmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvmovie/
 #EXTINF:-1 tvg-name="é¿éé Arirang" tvg-logo="https://logo.catvod.com/é¿éé Arirang.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¿éé Arirang
-http://pixman.passwdwork.us.ci/smt/arirang_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=arirang_twn/
 #EXTINF:-1 tvg-name="åæ¯è¿å¨ 1" tvg-logo="https://logo.catvod.com/åæ¯è¿å¨ 1.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯è¿å¨ 1
-http://pixman.passwdwork.us.ci/smt/bosisport1_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport1_twn/
 #EXTINF:-1 tvg-name="åæ¯è¿å¨ 2" tvg-logo="https://logo.catvod.com/åæ¯è¿å¨ 2.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯è¿å¨ 2
-http://pixman.passwdwork.us.ci/smt/bosisport2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport2_twn/
 #EXTINF:-1 tvg-name="åæ¯é«ç2 HD" tvg-logo="https://logo.catvod.com/åæ¯é«ç2 HD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯é«ç2 HD
-http://pixman.passwdwork.us.ci/smt/bosigolf2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf2_twn/
 #EXTINF:-1 tvg-name="åæ¯ç½ç HD" tvg-logo="https://logo.catvod.com/åæ¯ç½ç HD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯ç½ç HD
-http://pixman.passwdwork.us.ci/smt/bositennis_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bositennis_twn/
 #EXTINF:-1 tvg-name="ä¸æ£®æ´ç ETTV Western" tvg-logo="https://logo.catvod.com/ä¸æ£®æ´ç ETTV Western.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®æ´ç ETTV Western
-http://pixman.passwdwork.us.ci/smt/ettvwestern/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvwestern/
 #EXTINF:-1 tvg-name="é¾åæ´ç Lunghua Western" tvg-logo="https://logo.catvod.com/é¾åæ´ç Lunghua Western.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾åæ´ç Lunghua Western
-http://pixman.passwdwork.us.ci/smt/lunghuawestern_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn/
 #EXTINF:-1 tvg-name="åæ¯æ é" tvg-logo="https://logo.catvod.com/åæ¯æ é.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯æ é
-http://pixman.passwdwork.us.ci/smt/bosiunlimited_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn/
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="ð¹ð¼ å°ç£ | Taiwan",MTV Live
-http://pixman.passwdwork.us.ci/smt/mtvhd_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
 #EXTINF:-1 tvg-name="é¾è¯¦æ¶ä»£" tvg-logo="https://logo.catvod.com/é¾è¯¦æ¶ä»£.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾è¯¦æ¶ä»£
-http://pixman.passwdwork.us.ci/smt/lungxiangtime_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn/
 #EXTINF:-1 tvg-name="EYETV ææ¸¸" tvg-logo="https://logo.catvod.com/EYETV ææ¸¸.png" group-title="ð¹ð¼ å°ç£ | Taiwan",EYETV ææ¸¸
-http://pixman.passwdwork.us.ci/smt/eyetvtravel_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn/
 #EXTINF:-1 tvg-name="éå¤©å¡éå°" tvg-logo="https://logo.catvod.com/éå¤©å¡éå°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",éå¤©å¡éå°
-http://pixman.passwdwork.us.ci/smt/jingtiancartoon_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn/
 #EXTINF:-1 tvg-name="EYETV æå§" tvg-logo="https://logo.catvod.com/EYETV æå§.png" group-title="ð¹ð¼ å°ç£ | Taiwan",EYETV æå§
-http://pixman.passwdwork.us.ci/smt/eyetvxiju_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn/
 #EXTINF:-1 tvg-name="å«è§ä¸­æå° Star Movies Chinese" tvg-logo="https://logo.catvod.com/å«è§ä¸­æå° Star Movies Chinese.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«è§ä¸­æå° Star Movies Chinese
-http://pixman.passwdwork.us.ci/smt/weishichinese_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishichinese_twn/
 #EXTINF:-1 tvg-name="ä¸æ£®å¹¼å¹¼ Yoyo TV" tvg-logo="https://logo.catvod.com/ä¸æ£®å¹¼å¹¼ Yoyo TV.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®å¹¼å¹¼ Yoyo TV
-http://pixman.passwdwork.us.ci/smt/yoyo_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yoyo_twn/
 #EXTINF:-1 tvg-name="ç¾äºçµå½±" tvg-logo="https://logo.catvod.com/ç¾äºçµå½±.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ç¾äºçµå½±
-http://pixman.passwdwork.us.ci/smt/meiyamovie_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=meiyamovie_twn/
 #EXTINF:-1 tvg-name="ç±å°è¾¾æå§å°" tvg-logo="https://logo.catvod.com/ç±å°è¾¾æå§å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ç±å°è¾¾æå§å°
-http://pixman.passwdwork.us.ci/smt/eltadrama_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltadrama_twn/
 #EXTINF:-1 tvg-name="TVBS News æ°èå°" tvg-logo="https://logo.catvod.com/TVBS News æ°èå°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",TVBS News æ°èå°
-http://pixman.passwdwork.us.ci/smt/tvbs_n/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs_n/
 #EXTINF:-1 tvg-name="Asia Food Network" tvg-logo="https://logo.catvod.com/Asia Food Network.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Asia Food Network
-http://pixman.passwdwork.us.ci/smt/Afc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
 #EXTINF:-1 tvg-name="æ±æ£®æ°è ETTV News" tvg-logo="https://logo.catvod.com/æ±æ£®æ°è ETTV News.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ±æ£®æ°è ETTV News
-http://pixman.passwdwork.us.ci/smt/ettvnews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvnews/
 #EXTINF:-1 tvg-name="æ±æ£®è²¡ç¶æ°è ETTV Business" tvg-logo="https://logo.catvod.com/æ±æ£®è²¡ç¶æ°è ETTV Business.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ±æ£®è²¡ç¶æ°è ETTV Business
-http://pixman.passwdwork.us.ci/smt/ettvcaijing_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn/
 #EXTINF:-1 tvg-name="ä¸­å¤©æ°è CTI News" tvg-logo="https://logo.catvod.com/ä¸­å¤©æ°è CTI News.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­å¤©æ°è CTI News
-http://pixman.passwdwork.us.ci/smt/ctinews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctinews/
 #EXTINF:-1 tvg-name="éå¡æ°èå°" tvg-logo="https://logo.catvod.com/éå¡æ°èå°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",éå¡æ°èå°
-http://pixman.passwdwork.us.ci/smt/feifannews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=feifannews_twn/
 #EXTINF:-1 tvg-name="å°è¦æ°èå° TTV News" tvg-logo="https://logo.catvod.com/å°è¦æ°èå° TTV News.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å°è¦æ°èå° TTV News
-http://pixman.passwdwork.us.ci/smt/ttvnews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvnews_twn/
 #EXTINF:-1 tvg-name="Eltaä½è²1å°" tvg-logo="https://logo.catvod.com/Eltaä½è²1å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Eltaä½è²1å°
-http://pixman.passwdwork.us.ci/smt/eltasport1_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport1_twn/
 #EXTINF:-1 tvg-name="Eltaé«è²2å°" tvg-logo="https://logo.catvod.com/Eltaé«è²2å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Eltaé«è²2å°
-http://pixman.passwdwork.us.ci/smt/eltasport2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport2_twn/
 #EXTINF:-1 tvg-name="Eltaé«è²3å°" tvg-logo="https://logo.catvod.com/Eltaé«è²3å°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Eltaé«è²3å°
-http://pixman.passwdwork.us.ci/smt/eltasport3_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport3_twn/
 #EXTINF:-1 tvg-name="æ°è¦æ°èå° FTV News" tvg-logo="https://logo.catvod.com/æ°è¦æ°èå° FTV News.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ°è¦æ°èå° FTV News
-http://pixman.passwdwork.us.ci/smt/ftvnew_taiwan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan/
 #EXTINF:-1 tvg-name="å¯°å®æ°èå°" tvg-logo="https://logo.catvod.com/å¯°å®æ°èå°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¯°å®æ°èå°
-http://pixman.passwdwork.us.ci/smt/huanyuxinwen_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn/
 #EXTINF:-1 tvg-name="ä¸­è¦æ°èå°" tvg-logo="https://logo.catvod.com/ä¸­è¦æ°èå°.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­è¦æ°èå°
-http://pixman.passwdwork.us.ci/smt/zhongshinews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshinews_twn/
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN 1.png" group-title="ð¹ð¼ å°ç£ | Taiwan",DAZN 1
-http://pixman.passwdwork.us.ci/smt/dazn1_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn1_twn/
 #EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN 2.png" group-title="ð¹ð¼ å°ç£ | Taiwan",DAZN 2
-http://pixman.passwdwork.us.ci/smt/dazn2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn2_twn/
 #EXTINF:-1 tvg-name="æ¢ç´¢é¢é" tvg-logo="https://logo.catvod.com/æ¢ç´¢é¢é.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ¢ç´¢é¢é
-http://pixman.passwdwork.us.ci/smt/discoverych_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverych_twn/
 #EXTINF:-1 tvg-name="NHK-ç·å-2" tvg-logo="https://logo.catvod.com/NHK-ç·å-2.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHK-ç·å-2
-http://pixman.passwdwork.us.ci/smt/nhkg_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkg_japan/
 #EXTINF:-1 tvg-name="NHK-E" tvg-logo="https://logo.catvod.com/NHK-E.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHK-E
-http://pixman.passwdwork.us.ci/smt/nhke_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhke_japan/
 #EXTINF:-1 tvg-name="ãã¬ãææ¥ Asahi TV" tvg-logo="https://logo.catvod.com/ãã¬ãææ¥ Asahi TV.png" group-title="ð¯ðµ æ¥æ¬ | Japan",ãã¬ãææ¥ Asahi TV
-http://pixman.passwdwork.us.ci/smt/asahitv_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asahitv_japan/
 #EXTINF:-1 tvg-name="JET ç¶å" tvg-logo="https://logo.catvod.com/JET ç¶å.png" group-title="ð¯ðµ æ¥æ¬ | Japan",JET ç¶å
-http://pixman.passwdwork.us.ci/smt/jettv_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jettv_japan/
 #EXTINF:-1 tvg-name="ãã¬ãæ±äº¬ Tokyo TV" tvg-logo="https://logo.catvod.com/ãã¬ãæ±äº¬ Tokyo TV.png" group-title="ð¯ðµ æ¥æ¬ | Japan",ãã¬ãæ±äº¬ Tokyo TV
-http://pixman.passwdwork.us.ci/smt/tokyotv_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tokyotv_japan/
 #EXTINF:-1 tvg-name="TOKYOMX" tvg-logo="https://logo.catvod.com/TOKYOMX.png" group-title="ð¯ðµ æ¥æ¬ | Japan",TOKYOMX
-http://pixman.passwdwork.us.ci/smt/tokyomx_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tokyomx_japan/
 #EXTINF:-1 tvg-name="NHKBS1" tvg-logo="https://logo.catvod.com/NHKBS1.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHKBS1
-http://pixman.passwdwork.us.ci/smt/nhkbs1_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkbs1_japan/
 #EXTINF:-1 tvg-name="NHKBSãã¬ãã¢ Premium" tvg-logo="https://logo.catvod.com/NHKBSãã¬ãã¢ Premium.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHKBSãã¬ãã¢ Premium
-http://pixman.passwdwork.us.ci/smt/nhkpremium_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkpremium_japan/
 #EXTINF:-1 tvg-name="BSã¸ã£ãã³ 181" tvg-logo="https://logo.catvod.com/BSã¸ã£ãã³ 181.png" group-title="ð¯ðµ æ¥æ¬ | Japan",BSã¸ã£ãã³ 181
-http://pixman.passwdwork.us.ci/smt/bs181_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bs181_japan/
 #EXTINF:-1 tvg-name="BSãã¸ BS Fuji" tvg-logo="https://logo.catvod.com/BSãã¸ BS Fuji.png" group-title="ð¯ðµ æ¥æ¬ | Japan",BSãã¸ BS Fuji
-http://pixman.passwdwork.us.ci/smt/bsfuji_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bsfuji_japan/
 #EXTINF:-1 tvg-name="CNA Japan" tvg-logo="https://logo.catvod.com/CNA Japan.png" group-title="ð¯ðµ æ¥æ¬ | Japan",CNA Japan
-http://pixman.passwdwork.us.ci/smt/cna_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna_japan/
 #EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://logo.catvod.com/BS-TBS.png" group-title="ð¯ðµ æ¥æ¬ | Japan",BS-TBS
-http://pixman.passwdwork.us.ci/smt/bstbs_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bstbs_japan/
 #EXTINF:-1 tvg-name="NHK Oaska" tvg-logo="https://logo.catvod.com/NHK Oaska.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHK Oaska
-http://pixman.passwdwork.us.ci/smt/nhkosaka_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkosaka_japan/
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHK World
-http://pixman.passwdwork.us.ci/smt/nhkworld_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
 #EXTINF:-1 tvg-name="Arirang HD" tvg-logo="https://logo.catvod.com/Arirang HD.png" group-title="ð°ð· éå | South Korea",Arirang HD
-http://pixman.passwdwork.us.ci/smt/arirang_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=arirang_twn/
 #EXTINF:-1 tvg-name="Yonhap News" tvg-logo="https://logo.catvod.com/Yonhap News.png" group-title="ð°ð· éå | South Korea",Yonhap News
-http://pixman.passwdwork.us.ci/smt/yonhapnews_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yonhapnews_korea/
 #EXTINF:-1 tvg-name="CBS" tvg-logo="https://logo.catvod.com/CBS.png" group-title="ð°ð· éå | South Korea",CBS
-http://pixman.passwdwork.us.ci/smt/cbs_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbs_korea/
 #EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://logo.catvod.com/EBS 1.png" group-title="ð°ð· éå | South Korea",EBS 1
-http://pixman.passwdwork.us.ci/smt/ebs1_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebs1_korea/
 #EXTINF:-1 tvg-name="EBS2" tvg-logo="https://logo.catvod.com/EBS2.png" group-title="ð°ð· éå | South Korea",EBS2
-http://pixman.passwdwork.us.ci/smt/ebs2_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebs2_korea/
 #EXTINF:-1 tvg-name="EBS Plus2" tvg-logo="https://logo.catvod.com/EBS Plus2.png" group-title="ð°ð· éå | South Korea",EBS Plus2
-http://pixman.passwdwork.us.ci/smt/ebsplus2_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebsplus2_korea/
 #EXTINF:-1 tvg-name="SBS Plus" tvg-logo="https://logo.catvod.com/SBS Plus.png" group-title="ð°ð· éå | South Korea",SBS Plus
-http://pixman.passwdwork.us.ci/smt/sbsplus_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sbsplus_korea/
 #EXTINF:-1 tvg-name="YTN" tvg-logo="https://logo.catvod.com/YTN.png" group-title="ð°ð· éå | South Korea",YTN
-http://pixman.passwdwork.us.ci/smt/ytn_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytn_korea/
 #EXTINF:-1 tvg-name="KBS World 24" tvg-logo="https://logo.catvod.com/KBS World 24.png" group-title="ð°ð· éå | South Korea",KBS World 24
-http://pixman.passwdwork.us.ci/smt/kbsworld24_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=kbsworld24_korea/
 #EXTINF:-1 tvg-name="YTN Science" tvg-logo="https://logo.catvod.com/YTN Science.png" group-title="ð°ð· éå | South Korea",YTN Science
-http://pixman.passwdwork.us.ci/smt/ytnscience_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytnscience_korea/
 #EXTINF:-1 tvg-name="YTN Korean" tvg-logo="https://logo.catvod.com/YTN Korean.png" group-title="ð°ð· éå | South Korea",YTN Korean
-http://pixman.passwdwork.us.ci/smt/ytnkorean_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytnkorean_korea/
 #EXTINF:-1 tvg-name="YTN DMB" tvg-logo="https://logo.catvod.com/YTN DMB.png" group-title="ð°ð· éå | South Korea",YTN DMB
-http://pixman.passwdwork.us.ci/smt/ytndmb_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytndmb_korea/
 #EXTINF:-1 tvg-name="Apps TV" tvg-logo="https://logo.catvod.com/Apps TV.png" group-title="ð°ð· éå | South Korea",Apps TV
-http://pixman.passwdwork.us.ci/smt/appongoogle_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=appongoogle_korea/
 #EXTINF:-1 tvg-name="All the Kpop" tvg-logo="https://logo.catvod.com/All the Kpop.png" group-title="ð°ð· éå | South Korea",All the Kpop
-http://pixman.passwdwork.us.ci/smt/allthekpop_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=allthekpop_korea/
 #EXTINF:-1 tvg-name="J the Kpop" tvg-logo="https://logo.catvod.com/J the Kpop.png" group-title="ð°ð· éå | South Korea",J the Kpop
-http://pixman.passwdwork.us.ci/smt/jthekpop_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jthekpop_korea/
 #EXTINF:-1 tvg-name="EBS Kids" tvg-logo="https://logo.catvod.com/EBS Kids.png" group-title="ð°ð· éå | South Korea",EBS Kids
-http://pixman.passwdwork.us.ci/smt/ebskids_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebskids_korea/
 #EXTINF:-1 tvg-name="CGNTV" tvg-logo="https://logo.catvod.com/CGNTV.png" group-title="ð°ð· éå | South Korea",CGNTV
-http://pixman.passwdwork.us.ci/smt/cgntv_korea/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cgntv_korea/
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://logo.catvod.com/Channel 5.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel 5
-http://pixman.passwdwork.us.ci/smt/Channel5HD/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel5HD/
 #EXTINF:-1 tvg-name="Channel 5 backup" tvg-logo="https://logo.catvod.com/Channel 5 backup.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel 5 backup
-http://pixman.passwdwork.us.ci/smt/Mewatch_ch5/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_ch5/
 #EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://logo.catvod.com/Channel 8.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel 8
-http://pixman.passwdwork.us.ci/smt/Channel8HD/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel8HD/
 #EXTINF:-1 tvg-name="Channel 8 backup" tvg-logo="https://logo.catvod.com/Channel 8 backup.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel 8 backup
-http://pixman.passwdwork.us.ci/smt/Mewatch_ch8/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_ch8/
 #EXTINF:-1 tvg-name="Channel U" tvg-logo="https://logo.catvod.com/Channel U.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel U
-http://pixman.passwdwork.us.ci/smt/ChannelU/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ChannelU/
 #EXTINF:-1 tvg-name="Channel U backup" tvg-logo="https://logo.catvod.com/Channel U backup.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel U backup
-http://pixman.passwdwork.us.ci/smt/Mewatch_chU/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_chU/
 #EXTINF:-1 tvg-name="Suria" tvg-logo="https://logo.catvod.com/Suria.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Suria
-http://pixman.passwdwork.us.ci/smt/Suria/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Suria/
 #EXTINF:-1 tvg-name="Suria backup" tvg-logo="https://logo.catvod.com/Suria backup.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Suria backup
-http://pixman.passwdwork.us.ci/smt/Mewatch_Suria/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_Suria/
 #EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://logo.catvod.com/Vasantham.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Vasantham
-http://pixman.passwdwork.us.ci/smt/Vasantham/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vasantham/
 #EXTINF:-1 tvg-name="Vasantham backup" tvg-logo="https://logo.catvod.com/Vasantham backup.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Vasantham backup
-http://pixman.passwdwork.us.ci/smt/Mewatch_Vasantham/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_Vasantham/
 #EXTINF:-1 tvg-name="CNA backup1" tvg-logo="https://logo.catvod.com/CNA backup1.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNA backup1
-http://pixman.passwdwork.us.ci/smt/Mewatch_cna/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_cna/
 #EXTINF:-1 tvg-name="CNA backup2" tvg-logo="https://logo.catvod.com/CNA backup2.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNA backup2
-http://pixman.passwdwork.us.ci/smt/cna_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna_twn/
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://logo.catvod.com/CNN.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNN
-http://pixman.passwdwork.us.ci/smt/Cnn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
 #EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://logo.catvod.com/CNN backup.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNN backup
-http://pixman.passwdwork.us.ci/smt/cnn_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNA
-http://pixman.passwdwork.us.ci/smt/cna/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
 #EXTINF:-1 tvg-name="TV1" tvg-logo="https://logo.catvod.com/TV1.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV1
-http://pixman.passwdwork.us.ci/smt/TV1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV1/
 #EXTINF:-1 tvg-name="TV1 backup" tvg-logo="https://logo.catvod.com/TV1 backup.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV1 backup
-http://pixman.passwdwork.us.ci/smt/TV1_backup/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV1_backup/
 #EXTINF:-1 tvg-name="TV2" tvg-logo="https://logo.catvod.com/TV2.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV2
-http://pixman.passwdwork.us.ci/smt/TV2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV2/
 #EXTINF:-1 tvg-name="TV3" tvg-logo="https://logo.catvod.com/TV3.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV3
-http://pixman.passwdwork.us.ci/smt/TV3/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3/
 #EXTINF:-1 tvg-name="TV3 SD" tvg-logo="https://logo.catvod.com/TV3 SD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV3 SD
-http://pixman.passwdwork.us.ci/smt/TV3_mega/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_mega/
 #EXTINF:-1 tvg-name="TV3 backup" tvg-logo="https://logo.catvod.com/TV3 backup.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV3 backup
-http://pixman.passwdwork.us.ci/smt/TV3_backup/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_backup/
 #EXTINF:-1 tvg-name="TV3 backup2" tvg-logo="https://logo.catvod.com/TV3 backup2.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV3 backup2
-http://pixman.passwdwork.us.ci/smt/TV3_1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_1/
 #EXTINF:-1 tvg-name="TV5" tvg-logo="https://logo.catvod.com/TV5.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV5
-http://pixman.passwdwork.us.ci/smt/TV5/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV5/
 #EXTINF:-1 tvg-name="NTV7" tvg-logo="https://logo.catvod.com/NTV7.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",NTV7
-http://pixman.passwdwork.us.ci/smt/NTV7/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NTV7/
 #EXTINF:-1 tvg-name="8TV" tvg-logo="https://logo.catvod.com/8TV.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",8TV
-http://pixman.passwdwork.us.ci/smt/TV8/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV8/
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://logo.catvod.com/TV9.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV9
-http://pixman.passwdwork.us.ci/smt/TV9/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV9/
 #EXTINF:-1 tvg-name="Al-Hijrah" tvg-logo="https://logo.catvod.com/Al-Hijrah.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Al-Hijrah
-http://pixman.passwdwork.us.ci/smt/Alhijrah/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Alhijrah/
 #EXTINF:-1 tvg-name="Quran" tvg-logo="https://logo.catvod.com/Quran.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Quran
-http://pixman.passwdwork.us.ci/smt/quran_mido/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=quran_mido/
 #EXTINF:-1 tvg-name="Sunnah" tvg-logo="https://logo.catvod.com/Sunnah.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Sunnah
-http://pixman.passwdwork.us.ci/smt/sunnah_mido/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sunnah_mido/
 #EXTINF:-1 tvg-name="Bernama" tvg-logo="https://logo.catvod.com/Bernama.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Bernama
-http://pixman.passwdwork.us.ci/smt/Bernama/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bernama/
 #EXTINF:-1 tvg-name="Awani" tvg-logo="https://logo.catvod.com/Awani.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Awani
-http://pixman.passwdwork.us.ci/smt/Awani/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Awani/
 #EXTINF:-1 tvg-name="Ceria" tvg-logo="https://logo.catvod.com/Ceria.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Ceria
-http://pixman.passwdwork.us.ci/smt/Ceria/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ceria/
 #EXTINF:-1 tvg-name="Oasis" tvg-logo="https://logo.catvod.com/Oasis.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Oasis
-http://pixman.passwdwork.us.ci/smt/Oasis/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Oasis/
 #EXTINF:-1 tvg-name="Boo" tvg-logo="https://logo.catvod.com/Boo.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Boo
-http://pixman.passwdwork.us.ci/smt/Boo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Boo/
 #EXTINF:-1 tvg-name="Citra" tvg-logo="https://logo.catvod.com/Citra.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Citra
-http://pixman.passwdwork.us.ci/smt/AAcitra1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAcitra1/
 #EXTINF:-1 tvg-name="Citra backup" tvg-logo="https://logo.catvod.com/Citra backup.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Citra backup
-http://pixman.passwdwork.us.ci/smt/AAcitra1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAcitra1/
 #EXTINF:-1 tvg-name="Prima" tvg-logo="https://logo.catvod.com/Prima.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Prima
-http://pixman.passwdwork.us.ci/smt/Prima/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Prima/
 #EXTINF:-1 tvg-name="Prima backup" tvg-logo="https://logo.catvod.com/Prima backup.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Prima backup
-http://pixman.passwdwork.us.ci/smt/AAprima/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAprima/
 #EXTINF:-1 tvg-name="Ria" tvg-logo="https://logo.catvod.com/Ria.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Ria
-http://pixman.passwdwork.us.ci/smt/Ria-0/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ria-0/
 #EXTINF:-1 tvg-name="Ria-3" tvg-logo="https://logo.catvod.com/Ria-3.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Ria-3
-http://pixman.passwdwork.us.ci/smt/Ria_backup/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ria_backup/
 #EXTINF:-1 tvg-name="Awesome TV" tvg-logo="https://logo.catvod.com/Awesome TV.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Awesome TV
-http://pixman.passwdwork.us.ci/smt/Dsangat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dsangat/
 #EXTINF:-1 tvg-name="Aura" tvg-logo="https://logo.catvod.com/Aura.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Aura
-http://pixman.passwdwork.us.ci/smt/Aura/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aura/
 #EXTINF:-1 tvg-name="Sensasi" tvg-logo="https://logo.catvod.com/Sensasi.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Sensasi
-http://pixman.passwdwork.us.ci/smt/Sensasi/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sensasi/
 #EXTINF:-1 tvg-name="Siar" tvg-logo="https://logo.catvod.com/Siar.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Siar
-http://pixman.passwdwork.us.ci/smt/Siar/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Siar/
 #EXTINF:-1 tvg-name="Rania" tvg-logo="https://logo.catvod.com/Rania.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Rania
-http://pixman.passwdwork.us.ci/smt/Rania/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rania/
 #EXTINF:-1 tvg-name="WION" tvg-logo="https://logo.catvod.com/WION.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",WION
-http://pixman.passwdwork.us.ci/smt/Wion/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wion/
 #EXTINF:-1 tvg-name="Astro MTV" tvg-logo="https://logo.catvod.com/Astro MTV.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro MTV
-http://pixman.passwdwork.us.ci/smt/AstroMTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AstroMTV/
 #EXTINF:-1 tvg-name="Arena" tvg-logo="https://logo.catvod.com/Arena.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Arena
-http://pixman.passwdwork.us.ci/smt/Arena/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena/
 #EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://logo.catvod.com/Arena 2.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Arena 2
-http://pixman.passwdwork.us.ci/smt/Arena2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena2/
 #EXTINF:-1 tvg-name="Arena Bola 1" tvg-logo="https://logo.catvod.com/Arena Bola 1.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Arena Bola 1
-http://pixman.passwdwork.us.ci/smt/Bolaarena1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena1/
 #EXTINF:-1 tvg-name="Arena Bola 2" tvg-logo="https://logo.catvod.com/Arena Bola 2.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Arena Bola 2
-http://pixman.passwdwork.us.ci/smt/Bolaarena2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena2/
 #EXTINF:-1 tvg-name="NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/NatGeo_Wild HD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",NatGeo_Wild HD
-http://pixman.passwdwork.us.ci/smt/Natgeowild/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://logo.catvod.com/RTM Sports HD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",RTM Sports HD
-http://pixman.passwdwork.us.ci/smt/Rtmsport/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmsport/
 #EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="https://logo.catvod.com/Animal_Planet.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Animal_Planet
-http://pixman.passwdwork.us.ci/smt/AnimalPlanet/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HBO Family
-http://pixman.passwdwork.us.ci/smt/Hbofamily/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbofamily/
 #EXTINF:-1 tvg-name="Showcase" tvg-logo="https://logo.catvod.com/Showcase.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Showcase
-http://pixman.passwdwork.us.ci/smt/Showcase/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Showcase/
 #EXTINF:-1 tvg-name="RTM Asean" tvg-logo="https://logo.catvod.com/RTM Asean.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",RTM Asean
-http://pixman.passwdwork.us.ci/smt/Rtmasean/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmasean/
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HGTV
-http://pixman.passwdwork.us.ci/smt/HGTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
 #EXTINF:-1 tvg-name="Astro Badminton" tvg-logo="https://logo.catvod.com/Astro Badminton.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro Badminton
-http://pixman.passwdwork.us.ci/smt/go_badminton1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton1/
 #EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="https://logo.catvod.com/Astro Badminton 2.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro Badminton 2
-http://pixman.passwdwork.us.ci/smt/go_badminton2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton2/
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TLC
-http://pixman.passwdwork.us.ci/smt/Tlc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
 #EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://logo.catvod.com/Foodnetwork Hd.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Foodnetwork Hd
-http://pixman.passwdwork.us.ci/smt/Foodnetwork/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Foodnetwork/
 #EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Axn HD
-http://pixman.passwdwork.us.ci/smt/Axn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HBO HD
-http://pixman.passwdwork.us.ci/smt/Hbo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://logo.catvod.com/HBO Signature.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HBO Signature
-http://pixman.passwdwork.us.ci/smt/Hbosignature/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbosignature/
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://logo.catvod.com/HBO Hits.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HBO Hits
-http://pixman.passwdwork.us.ci/smt/Hbohitshd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbohitshd/
 #EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://logo.catvod.com/Dreamworks.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Dreamworks
-http://pixman.passwdwork.us.ci/smt/Dreamworks/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dreamworks/
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Nickelodeon
-http://pixman.passwdwork.us.ci/smt/Nickelodeon/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Nick Jr
-http://pixman.passwdwork.us.ci/smt/Nickjr/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Cartoon Network
-http://pixman.passwdwork.us.ci/smt/Cn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn/
 #EXTINF:-1 tvg-name="Asia Food Network" tvg-logo="https://logo.catvod.com/Asia Food Network.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Asia Food Network
-http://pixman.passwdwork.us.ci/smt/Afc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
 #EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Animal Planet (Eng)
-http://pixman.passwdwork.us.ci/smt/AnimalPlanet/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",NatGeo Wild HD
-http://pixman.passwdwork.us.ci/smt/Natgeowild/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="TvN" tvg-logo="https://logo.catvod.com/TvN.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TvN
-http://pixman.passwdwork.us.ci/smt/TVN/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVN/
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://logo.catvod.com/KBS World.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",KBS World
-http://pixman.passwdwork.us.ci/smt/KBS/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KBS/
 #EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://logo.catvod.com/Sony HD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Sony HD
-http://pixman.passwdwork.us.ci/smt/SetOne/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=SetOne/
 #EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",tvN Movie
-http://pixman.passwdwork.us.ci/smt/Tvnmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
 #EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://logo.catvod.com/Astrol Kplus.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astrol Kplus
-http://pixman.passwdwork.us.ci/smt/Kplus/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kplus/
 #EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",One
-http://pixman.passwdwork.us.ci/smt/One/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
 #EXTINF:-1 tvg-name="AEC" tvg-logo="https://logo.catvod.com/AEC.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",AEC
-http://pixman.passwdwork.us.ci/smt/AEC/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AEC/
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://logo.catvod.com/AOD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",AOD
-http://pixman.passwdwork.us.ci/smt/Aodhd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aodhd/
 #EXTINF:-1 tvg-name="åä¸½å° HD (Wah Lai Toi)" tvg-logo="https://logo.catvod.com/åä¸½å° HD (Wah Lai Toi).png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",åä¸½å° HD (Wah Lai Toi)
-http://pixman.passwdwork.us.ci/smt/Wlt/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wlt/
 #EXTINF:-1 tvg-name="æ¬¢åå° HD(Hua Hee Tai)" tvg-logo="https://logo.catvod.com/æ¬¢åå° HD(Hua Hee Tai).png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",æ¬¢åå° HD(Hua Hee Tai)
-http://pixman.passwdwork.us.ci/smt/Huahee/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Huahee/
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/Astro QJ.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro QJ
-http://pixman.passwdwork.us.ci/smt/Quanjia/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Quanjia/
 #EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://logo.catvod.com/TVB Jade.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB Jade
-http://pixman.passwdwork.us.ci/smt/Tvbjade/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbjade/
 #EXTINF:-1 tvg-name="ç±å¥èº iQiyi" tvg-logo="https://logo.catvod.com/ç±å¥èº iQiyi.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",ç±å¥èº iQiyi
-http://pixman.passwdwork.us.ci/smt/Qiyi/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Qiyi/
 #EXTINF:-1 tvg-name="TVB ææ²³å°  Xing He" tvg-logo="https://logo.catvod.com/TVB ææ²³å°  Xing He.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB ææ²³å°  Xing He
-http://pixman.passwdwork.us.ci/smt/Xinhe/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Xinhe/
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://logo.catvod.com/Discovery Asia.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Discovery Asia
-http://pixman.passwdwork.us.ci/smt/Discoveryasia/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Discoveryasia/
 #EXTINF:-1 tvg-name="Dmax" tvg-logo="https://logo.catvod.com/Dmax.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Dmax
-http://pixman.passwdwork.us.ci/smt/Dmax/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dmax/
 #EXTINF:-1 tvg-name="TVB Asia" tvg-logo="https://logo.catvod.com/TVB Asia.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB Asia
-http://pixman.passwdwork.us.ci/smt/Tvbasia/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbasia/
 #EXTINF:-1 tvg-name="TVB Entertainment" tvg-logo="https://logo.catvod.com/TVB Entertainment.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB Entertainment
-http://pixman.passwdwork.us.ci/smt/Tvbentertainment/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbentertainment/
 #EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://logo.catvod.com/TVB Classic.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB Classic
-http://pixman.passwdwork.us.ci/smt/Tvbclassic/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbclassic/
 #EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://logo.catvod.com/Celestial Classic.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Celestial Classic
-http://pixman.passwdwork.us.ci/smt/Celestial2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial2/
 #EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://logo.catvod.com/Celestial Movies HD.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Celestial Movies HD
-http://pixman.passwdwork.us.ci/smt/Celestial/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial/
 #EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Rock Actions
-http://pixman.passwdwork.us.ci/smt/Rockaction/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
 #EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Rock Entertainment
-http://pixman.passwdwork.us.ci/smt/Rockentertain/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
 #EXTINF:-1 tvg-name="Bollyone" tvg-logo="https://logo.catvod.com/Bollyone.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Bollyone
-http://pixman.passwdwork.us.ci/smt/Bollyone/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bollyone/
 #EXTINF:-1 tvg-name="Astro Sunmusic" tvg-logo="https://logo.catvod.com/Astro Sunmusic.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro Sunmusic
-http://pixman.passwdwork.us.ci/smt/Sunmusic/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
 #EXTINF:-1 tvg-name="Thangathirai" tvg-logo="https://logo.catvod.com/Thangathirai.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Thangathirai
-http://pixman.passwdwork.us.ci/smt/Thangathirai/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thangathirai/
 #EXTINF:-1 tvg-name="Vinmeen" tvg-logo="https://logo.catvod.com/Vinmeen.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Vinmeen
-http://pixman.passwdwork.us.ci/smt/Vinmeen/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vinmeen/
 #EXTINF:-1 tvg-name="Vellithirai" tvg-logo="https://logo.catvod.com/Vellithirai.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Vellithirai
-http://pixman.passwdwork.us.ci/smt/Vellithirai/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vellithirai/
 #EXTINF:-1 tvg-name="Astro LOL" tvg-logo="https://logo.catvod.com/Astro LOL.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro LOL
-http://pixman.passwdwork.us.ci/smt/Astro_lol/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astro_lol/
 #EXTINF:-1 tvg-name="Al_Jazeera" tvg-logo="https://logo.catvod.com/Al_Jazeera.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Al_Jazeera
-http://pixman.passwdwork.us.ci/smt/Aljazeera/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aljazeera/
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://logo.catvod.com/CNN.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",CNN
-http://pixman.passwdwork.us.ci/smt/Cnn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
 #EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://logo.catvod.com/CNN backup.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",CNN backup
-http://pixman.passwdwork.us.ci/smt/cnn_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",BBC World News
-http://pixman.passwdwork.us.ci/smt/Bbcnews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",CNBC
-http://pixman.passwdwork.us.ci/smt/Cnbc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://logo.catvod.com/Bloomberg TV.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Bloomberg TV
-http://pixman.passwdwork.us.ci/smt/Bloomberg/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bloomberg/
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",CNA
-http://pixman.passwdwork.us.ci/smt/cna/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://logo.catvod.com/DW.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",DW
-http://pixman.passwdwork.us.ci/smt/Dw/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dw/
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",France 24
-http://pixman.passwdwork.us.ci/smt/France24/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=France24/
 #EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://logo.catvod.com/Eurosport.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Eurosport
-http://pixman.passwdwork.us.ci/smt/Eurosport/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Eurosport/
 #EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Skynews
-http://pixman.passwdwork.us.ci/smt/Skynews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Skynews/
 #EXTINF:-1 tvg-name="NHK Premium" tvg-logo="https://logo.catvod.com/NHK Premium.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",NHK Premium
-http://pixman.passwdwork.us.ci/smt/NHKpremium/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NHKpremium/
 #EXTINF:-1 tvg-name="Channel 3 Thailand" tvg-logo="https://logo.catvod.com/Channel 3 Thailand.png" group-title="ð¹ð­ æ³°å | Thailand",Channel 3 Thailand
-http://pixman.passwdwork.us.ci/smt/ch3_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch3_pat/
 #EXTINF:-1 tvg-name="Channel 5 Thailand" tvg-logo="https://logo.catvod.com/Channel 5 Thailand.png" group-title="ð¹ð­ æ³°å | Thailand",Channel 5 Thailand
-http://pixman.passwdwork.us.ci/smt/ch5_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch5_pat/
 #EXTINF:-1 tvg-name="Channel 7 Thailand" tvg-logo="https://logo.catvod.com/Channel 7 Thailand.png" group-title="ð¹ð­ æ³°å | Thailand",Channel 7 Thailand
-http://pixman.passwdwork.us.ci/smt/ch7_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch7_pat/
 #EXTINF:-1 tvg-name="MCOT HD Thailand-1" tvg-logo="https://logo.catvod.com/MCOT HD Thailand-1.png" group-title="ð¹ð­ æ³°å | Thailand",MCOT HD Thailand-1
-http://pixman.passwdwork.us.ci/smt/mcot_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mcot_pat/
 #EXTINF:-1 tvg-name="PPTV Thailand1" tvg-logo="https://logo.catvod.com/PPTV Thailand1.png" group-title="ð¹ð­ æ³°å | Thailand",PPTV Thailand1
-http://pixman.passwdwork.us.ci/smt/pptv_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=pptv_pat/
 #EXTINF:-1 tvg-name="Thai Thai" tvg-logo="https://logo.catvod.com/Thai Thai.png" group-title="ð¹ð­ æ³°å | Thailand",Thai Thai
-http://pixman.passwdwork.us.ci/smt/thaithai_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=thaithai_pat/
 #EXTINF:-1 tvg-name="Amarin" tvg-logo="https://logo.catvod.com/Amarin.png" group-title="ð¹ð­ æ³°å | Thailand",Amarin
-http://pixman.passwdwork.us.ci/smt/amarin_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=amarin_pat/
 #EXTINF:-1 tvg-name="Ch 8" tvg-logo="https://logo.catvod.com/Ch 8.png" group-title="ð¹ð­ æ³°å | Thailand",Ch 8
-http://pixman.passwdwork.us.ci/smt/ch8_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch8_pat/
 #EXTINF:-1 tvg-name="GmmOne" tvg-logo="https://logo.catvod.com/GmmOne.png" group-title="ð¹ð­ æ³°å | Thailand",GmmOne
-http://pixman.passwdwork.us.ci/smt/gmmone_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=gmmone_pat/
 #EXTINF:-1 tvg-name="Mono" tvg-logo="https://logo.catvod.com/Mono.png" group-title="ð¹ð­ æ³°å | Thailand",Mono
-http://pixman.passwdwork.us.ci/smt/mono_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mono_pat/
 #EXTINF:-1 tvg-name="Thairath" tvg-logo="https://logo.catvod.com/Thairath.png" group-title="ð¹ð­ æ³°å | Thailand",Thairath
-http://pixman.passwdwork.us.ci/smt/thairath_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=thairath_pat/
 #EXTINF:-1 tvg-name="tpbs" tvg-logo="https://logo.catvod.com/tpbs.png" group-title="ð¹ð­ æ³°å | Thailand",tpbs
-http://pixman.passwdwork.us.ci/smt/tpbs_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tpbs_pat/
 #EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://logo.catvod.com/Workpoint.png" group-title="ð¹ð­ æ³°å | Thailand",Workpoint
-http://pixman.passwdwork.us.ci/smt/workpoint_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=workpoint_pat/
 #EXTINF:-1 tvg-name="Gmm Channel" tvg-logo="https://logo.catvod.com/Gmm Channel.png" group-title="ð¹ð­ æ³°å | Thailand",Gmm Channel
-http://pixman.passwdwork.us.ci/smt/gmmchannel_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=gmmchannel_pat/
 #EXTINF:-1 tvg-name="Nation" tvg-logo="https://logo.catvod.com/Nation.png" group-title="ð¹ð­ æ³°å | Thailand",Nation
-http://pixman.passwdwork.us.ci/smt/nation_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nation_pat/
 #EXTINF:-1 tvg-name="Tnn24" tvg-logo="https://logo.catvod.com/Tnn24.png" group-title="ð¹ð­ æ³°å | Thailand",Tnn24
-http://pixman.passwdwork.us.ci/smt/tnn24_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tnn24_pat/
 #EXTINF:-1 tvg-name="Nbt" tvg-logo="https://logo.catvod.com/Nbt.png" group-title="ð¹ð­ æ³°å | Thailand",Nbt
-http://pixman.passwdwork.us.ci/smt/nbt_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nbt_pat/
 #EXTINF:-1 tvg-name="New" tvg-logo="https://logo.catvod.com/New.png" group-title="ð¹ð­ æ³°å | Thailand",New
-http://pixman.passwdwork.us.ci/smt/new_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=new_pat/
 #EXTINF:-1 tvg-name="TPTV" tvg-logo="https://logo.catvod.com/TPTV.png" group-title="ð¹ð­ æ³°å | Thailand",TPTV
-http://pixman.passwdwork.us.ci/smt/tptv_pat/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tptv_pat/
 #EXTINF:-1 tvg-name="Test 1" tvg-logo="https://logo.catvod.com/Test 1.png" group-title="ð¹ð­ æ³°å | Thailand",Test 1
-http://pixman.passwdwork.us.ci/smt/AAA1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA1/
 #EXTINF:-1 tvg-name="Test 2" tvg-logo="https://logo.catvod.com/Test 2.png" group-title="ð¹ð­ æ³°å | Thailand",Test 2
-http://pixman.passwdwork.us.ci/smt/AAA2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA2/
 #EXTINF:-1 tvg-name="Test 3" tvg-logo="https://logo.catvod.com/Test 3.png" group-title="ð¹ð­ æ³°å | Thailand",Test 3
-http://pixman.passwdwork.us.ci/smt/AAA3/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA3/
 #EXTINF:-1 tvg-name="Test 4" tvg-logo="https://logo.catvod.com/Test 4.png" group-title="ð¹ð­ æ³°å | Thailand",Test 4
-http://pixman.passwdwork.us.ci/smt/AAA4/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA4/
 #EXTINF:-1 tvg-name="Test 5" tvg-logo="https://logo.catvod.com/Test 5.png" group-title="ð¹ð­ æ³°å | Thailand",Test 5
-http://pixman.passwdwork.us.ci/smt/AAA5/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA5/
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://logo.catvod.com/ANTV.png" group-title="ð»ð³ è¶å | Vietnam",ANTV
-http://pixman.passwdwork.us.ci/smt/vtn_antv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_antv/
 #EXTINF:-1 tvg-name="VTV 1" tvg-logo="https://logo.catvod.com/VTV 1.png" group-title="ð»ð³ è¶å | Vietnam",VTV 1
-http://pixman.passwdwork.us.ci/smt/vtn_vtv1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv1/
 #EXTINF:-1 tvg-name="VTV 3" tvg-logo="https://logo.catvod.com/VTV 3.png" group-title="ð»ð³ è¶å | Vietnam",VTV 3
-http://pixman.passwdwork.us.ci/smt/vtn_vtv3/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv3/
 #EXTINF:-1 tvg-name="VTV 4" tvg-logo="https://logo.catvod.com/VTV 4.png" group-title="ð»ð³ è¶å | Vietnam",VTV 4
-http://pixman.passwdwork.us.ci/smt/vtn_vtv4/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv4/
 #EXTINF:-1 tvg-name="VTV 6" tvg-logo="https://logo.catvod.com/VTV 6.png" group-title="ð»ð³ è¶å | Vietnam",VTV 6
-http://pixman.passwdwork.us.ci/smt/vtn_vtv6/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv6/
 #EXTINF:-1 tvg-name="HTV 7" tvg-logo="https://logo.catvod.com/HTV 7.png" group-title="ð»ð³ è¶å | Vietnam",HTV 7
-http://pixman.passwdwork.us.ci/smt/vtn_htv7/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_htv7/
 #EXTINF:-1 tvg-name="HTV 9" tvg-logo="https://logo.catvod.com/HTV 9.png" group-title="ð»ð³ è¶å | Vietnam",HTV 9
-http://pixman.passwdwork.us.ci/smt/vtn_htv9/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_htv9/
 #EXTINF:-1 tvg-name="THVL HD" tvg-logo="https://logo.catvod.com/THVL HD.png" group-title="ð»ð³ è¶å | Vietnam",THVL HD
-http://pixman.passwdwork.us.ci/smt/vtn_thvl/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_thvl/
 #EXTINF:-1 tvg-name="TBKTV" tvg-logo="https://logo.catvod.com/TBKTV.png" group-title="ð»ð³ è¶å | Vietnam",TBKTV
-http://pixman.passwdwork.us.ci/smt/vtn_tbktv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_tbktv/
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://logo.catvod.com/BTV HD.png" group-title="ð»ð³ è¶å | Vietnam",BTV HD
-http://pixman.passwdwork.us.ci/smt/vtn_btvhd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_btvhd/
 #EXTINF:-1 tvg-name="CTV HD" tvg-logo="https://logo.catvod.com/CTV HD.png" group-title="ð»ð³ è¶å | Vietnam",CTV HD
-http://pixman.passwdwork.us.ci/smt/vtn_ctvhd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_ctvhd/
 #EXTINF:-1 tvg-name="TVRi National" tvg-logo="https://logo.catvod.com/TVRi National.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",TVRi National
-http://pixman.passwdwork.us.ci/smt/TVRI/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVRI/
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://logo.catvod.com/RCTI.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",RCTI
-http://pixman.passwdwork.us.ci/smt/Rcti/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rcti/
 #EXTINF:-1 tvg-name="Kompass TV" tvg-logo="https://logo.catvod.com/Kompass TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Kompass TV
-http://pixman.passwdwork.us.ci/smt/Kompass/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kompass/
 #EXTINF:-1 tvg-name="Berita Satu" tvg-logo="https://logo.catvod.com/Berita Satu.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Berita Satu
-http://pixman.passwdwork.us.ci/smt/BeritaSatu_eko/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=BeritaSatu_eko/
 #EXTINF:-1 tvg-name="Indosiar HD" tvg-logo="https://logo.catvod.com/Indosiar HD.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Indosiar HD
-http://pixman.passwdwork.us.ci/smt/Indosiar/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Indosiar/
 #EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://logo.catvod.com/Metro TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Metro TV
-http://pixman.passwdwork.us.ci/smt/metrotv_eko/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=metrotv_eko/
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://logo.catvod.com/SCTV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",SCTV
-http://pixman.passwdwork.us.ci/smt/SCTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=SCTV/
 #EXTINF:-1 tvg-name="AnTV" tvg-logo="https://logo.catvod.com/AnTV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",AnTV
-http://pixman.passwdwork.us.ci/smt/Antv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Antv/
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://logo.catvod.com/MNC TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",MNC TV
-http://pixman.passwdwork.us.ci/smt/Mnctv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mnctv/
 #EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://logo.catvod.com/Trans 7.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Trans 7
-http://pixman.passwdwork.us.ci/smt/Trans7_eko/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Trans7_eko/
 #EXTINF:-1 tvg-name="Transtv" tvg-logo="https://logo.catvod.com/Transtv.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Transtv
-http://pixman.passwdwork.us.ci/smt/Transtv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Transtv/
 #EXTINF:-1 tvg-name="JTV" tvg-logo="https://logo.catvod.com/JTV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",JTV
-http://pixman.passwdwork.us.ci/smt/JTV_eko/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=JTV_eko/
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://logo.catvod.com/Cinemax.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Cinemax
-http://pixman.passwdwork.us.ci/smt/Cinemax/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cinemax/
 #EXTINF:-1 tvg-name="Tvone" tvg-logo="https://logo.catvod.com/Tvone.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Tvone
-http://pixman.passwdwork.us.ci/smt/Tvone/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvone/
 #EXTINF:-1 tvg-name="TVMU" tvg-logo="https://logo.catvod.com/TVMU.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",TVMU
-http://pixman.passwdwork.us.ci/smt/TVMU_eko/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVMU_eko/
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://logo.catvod.com/GTV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",GTV
-http://pixman.passwdwork.us.ci/smt/Gtv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Gtv/
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://logo.catvod.com/RTV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",RTV
-http://pixman.passwdwork.us.ci/smt/Rtv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtv/
 #EXTINF:-1 tvg-name="Jak TV" tvg-logo="https://logo.catvod.com/Jak TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Jak TV
-http://pixman.passwdwork.us.ci/smt/JakTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=JakTV/
 #EXTINF:-1 tvg-name="iNews TV" tvg-logo="https://logo.catvod.com/iNews TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",iNews TV
-http://pixman.passwdwork.us.ci/smt/Inewstv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Inewstv/
 #EXTINF:-1 tvg-name="Daai TV" tvg-logo="https://logo.catvod.com/Daai TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Daai TV
-http://pixman.passwdwork.us.ci/smt/DaaiTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=DaaiTV/
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="https://logo.catvod.com/Net TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Net TV
-http://pixman.passwdwork.us.ci/smt/NetTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NetTV/
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Animax
-http://pixman.passwdwork.us.ci/smt/Animax/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
 #EXTINF:-1 tvg-name="EWTN" tvg-logo="https://logo.catvod.com/EWTN.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",EWTN
-http://pixman.passwdwork.us.ci/smt/Ewtn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ewtn/
 #EXTINF:-1 tvg-name="AlQuran AlKareem" tvg-logo="https://logo.catvod.com/AlQuran AlKareem.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",AlQuran AlKareem
-http://pixman.passwdwork.us.ci/smt/Alkareem/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Alkareem/
 #EXTINF:-1 tvg-name="Tawaf TV" tvg-logo="https://logo.catvod.com/Tawaf TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Tawaf TV
-http://pixman.passwdwork.us.ci/smt/TawafTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TawafTV/
 #EXTINF:-1 tvg-name="Vision Prime" tvg-logo="https://logo.catvod.com/Vision Prime.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Vision Prime
-http://pixman.passwdwork.us.ci/smt/VisionPrime/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=VisionPrime/
 #EXTINF:-1 tvg-name="Muslim TV" tvg-logo="https://logo.catvod.com/Muslim TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Muslim TV
-http://pixman.passwdwork.us.ci/smt/MuslimTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MuslimTV/
 #EXTINF:-1 tvg-name="Music TV" tvg-logo="https://logo.catvod.com/Music TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Music TV
-http://pixman.passwdwork.us.ci/smt/MusicTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MusicTV/
 #EXTINF:-1 tvg-name="Lifestyle&Fashion" tvg-logo="https://logo.catvod.com/Lifestyle&Fashion.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Lifestyle&Fashion
-http://pixman.passwdwork.us.ci/smt/Lifestyle/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Lifestyle/
 #EXTINF:-1 tvg-name="Entertain" tvg-logo="https://logo.catvod.com/Entertain.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Entertain
-http://pixman.passwdwork.us.ci/smt/Entertain/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Entertain/
 #EXTINF:-1 tvg-name="Hits" tvg-logo="https://logo.catvod.com/Hits.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Hits
-http://pixman.passwdwork.us.ci/smt/Hits/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits/
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Warner TV
-http://pixman.passwdwork.us.ci/smt/WarnerTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
 #EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://logo.catvod.com/Fight Sports.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Fight Sports
-http://pixman.passwdwork.us.ci/smt/Fs/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Fs/
 #EXTINF:-1 tvg-name="SCM" tvg-logo="https://logo.catvod.com/SCM.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",SCM
-http://pixman.passwdwork.us.ci/smt/Weishimovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Weishimovie/
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Thrill
-http://pixman.passwdwork.us.ci/smt/Thrill/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
 #EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Hits Movie
-http://pixman.passwdwork.us.ci/smt/Hitsmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
 #EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",tvN Movie
-http://pixman.passwdwork.us.ci/smt/Tvnmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
 #EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",One
-http://pixman.passwdwork.us.ci/smt/One/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
 #EXTINF:-1 tvg-name="å¤©æ é »éCelestial Movies" tvg-logo="https://logo.catvod.com/å¤©æ é »éCelestial Movies.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",å¤©æ é »éCelestial Movies
-http://pixman.passwdwork.us.ci/smt/Celestialindo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestialindo/
 #EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Rock Actions
-http://pixman.passwdwork.us.ci/smt/Rockaction/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
 #EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Rock Entertainment
-http://pixman.passwdwork.us.ci/smt/Rockentertain/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
 #EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="https://logo.catvod.com/Sun TV HD.png" group-title="ð®ð³ å°åº¦ | India",Sun TV HD
-http://pixman.passwdwork.us.ci/smt/Suntv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Suntv/
 #EXTINF:-1 tvg-name="Star Vijay" tvg-logo="https://logo.catvod.com/Star Vijay.png" group-title="ð®ð³ å°åº¦ | India",Star Vijay
-http://pixman.passwdwork.us.ci/smt/Starvijay/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Starvijay/
 #EXTINF:-1 tvg-name="Colors Tamil" tvg-logo="https://logo.catvod.com/Colors Tamil.png" group-title="ð®ð³ å°åº¦ | India",Colors Tamil
-http://pixman.passwdwork.us.ci/smt/Colorstam/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Colorstam/
 #EXTINF:-1 tvg-name="Sun Music" tvg-logo="https://logo.catvod.com/Sun Music.png" group-title="ð®ð³ å°åº¦ | India",Sun Music
-http://pixman.passwdwork.us.ci/smt/Sunmusic/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
 #EXTINF:-1 tvg-name="Astro Sunlife" tvg-logo="https://logo.catvod.com/Astro Sunlife.png" group-title="ð®ð³ å°åº¦ | India",Astro Sunlife
-http://pixman.passwdwork.us.ci/smt/Sunlife/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunlife/
 #EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="https://logo.catvod.com/Astro Vaanavil.png" group-title="ð®ð³ å°åº¦ | India",Astro Vaanavil
-http://pixman.passwdwork.us.ci/smt/Vaanavil/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vaanavil/
 #EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://logo.catvod.com/Zee Tamil.png" group-title="ð®ð³ å°åº¦ | India",Zee Tamil
-http://pixman.passwdwork.us.ci/smt/Zeetamil/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeetamil/
 #EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://logo.catvod.com/Zee Business.png" group-title="ð®ð³ å°åº¦ | India",Zee Business
-http://pixman.passwdwork.us.ci/smt/Zeebusiness/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeebusiness/
 #EXTINF:-1 tvg-name="News 18 Tamil" tvg-logo="https://logo.catvod.com/News 18 Tamil.png" group-title="ð®ð³ å°åº¦ | India",News 18 Tamil
-http://pixman.passwdwork.us.ci/smt/news18tamil_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=news18tamil_raj/
 #EXTINF:-1 tvg-name="Adithya" tvg-logo="https://logo.catvod.com/Adithya.png" group-title="ð®ð³ å°åº¦ | India",Adithya
-http://pixman.passwdwork.us.ci/smt/Adithya/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Adithya/
 #EXTINF:-1 tvg-name="Makkal TV" tvg-logo="https://logo.catvod.com/Makkal TV.png" group-title="ð®ð³ å°åº¦ | India",Makkal TV
-http://pixman.passwdwork.us.ci/smt/Makkaltv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Makkaltv/
 #EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://logo.catvod.com/Zee Action.png" group-title="ð®ð³ å°åº¦ | India",Zee Action
-http://pixman.passwdwork.us.ci/smt/Zeeaction/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeeaction/
 #EXTINF:-1 tvg-name="Astro KTV" tvg-logo="https://logo.catvod.com/Astro KTV.png" group-title="ð®ð³ å°åº¦ | India",Astro KTV
-http://pixman.passwdwork.us.ci/smt/Astroktv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astroktv/
 #EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://logo.catvod.com/Zee TV HD.png" group-title="ð®ð³ å°åº¦ | India",Zee TV HD
-http://pixman.passwdwork.us.ci/smt/Zeetvhd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeetvhd/
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://logo.catvod.com/Zee Cinema HD.png" group-title="ð®ð³ å°åº¦ | India",Zee Cinema HD
-http://pixman.passwdwork.us.ci/smt/Zeecinemahd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeecinemahd/
 #EXTINF:-1 tvg-name="Color HD" tvg-logo="https://logo.catvod.com/Color HD.png" group-title="ð®ð³ å°åº¦ | India",Color HD
-http://pixman.passwdwork.us.ci/smt/Colorhd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Colorhd/
 #EXTINF:-1 tvg-name="Starplus HD" tvg-logo="https://logo.catvod.com/Starplus HD.png" group-title="ð®ð³ å°åº¦ | India",Starplus HD
-http://pixman.passwdwork.us.ci/smt/Starplushd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Starplushd/
 #EXTINF:-1 tvg-name="Picture HD" tvg-logo="https://logo.catvod.com/Picture HD.png" group-title="ð®ð³ å°åº¦ | India",Picture HD
-http://pixman.passwdwork.us.ci/smt/Npicture/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Npicture/
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="https://logo.catvod.com/Zee News.png" group-title="ð®ð³ å°åº¦ | India",Zee News
-http://pixman.passwdwork.us.ci/smt/Zeenews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeenews/
 #EXTINF:-1 tvg-name="Asianet" tvg-logo="https://logo.catvod.com/Asianet.png" group-title="ð®ð³ å°åº¦ | India",Asianet
-http://pixman.passwdwork.us.ci/smt/asianet_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asianet_raj/
 #EXTINF:-1 tvg-name="Asianet News" tvg-logo="https://logo.catvod.com/Asianet News.png" group-title="ð®ð³ å°åº¦ | India",Asianet News
-http://pixman.passwdwork.us.ci/smt/asianetnews_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asianetnews_raj/
 #EXTINF:-1 tvg-name="Discovery World Tamil" tvg-logo="https://logo.catvod.com/Discovery World Tamil.png" group-title="ð®ð³ å°åº¦ | India",Discovery World Tamil
-http://pixman.passwdwork.us.ci/smt/discoveryworldtam_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoveryworldtam_raj/
 #EXTINF:-1 tvg-name="History Tamil" tvg-logo="https://logo.catvod.com/History Tamil.png" group-title="ð®ð³ å°åº¦ | India",History Tamil
-http://pixman.passwdwork.us.ci/smt/historytam_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=historytam_raj/
 #EXTINF:-1 tvg-name="NatGeo Tamil" tvg-logo="https://logo.catvod.com/NatGeo Tamil.png" group-title="ð®ð³ å°åº¦ | India",NatGeo Tamil
-http://pixman.passwdwork.us.ci/smt/natgeotamil_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=natgeotamil_raj/
 #EXTINF:-1 tvg-name="Natgeo Wild Tamil" tvg-logo="https://logo.catvod.com/Natgeo Wild Tamil.png" group-title="ð®ð³ å°åº¦ | India",Natgeo Wild Tamil
-http://pixman.passwdwork.us.ci/smt/natgeowildtamil_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=natgeowildtamil_raj/
 #EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-logo="https://logo.catvod.com/Discovery Kids Tamil.png" group-title="ð®ð³ å°åº¦ | India",Discovery Kids Tamil
-http://pixman.passwdwork.us.ci/smt/discoverykidtamil_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverykidtamil_raj/
 #EXTINF:-1 tvg-name="Sony Yay Tamil" tvg-logo="https://logo.catvod.com/Sony Yay Tamil.png" group-title="ð®ð³ å°åº¦ | India",Sony Yay Tamil
-http://pixman.passwdwork.us.ci/smt/sonyyaytam_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sonyyaytam_raj/
 #EXTINF:-1 tvg-name="Sun TV India" tvg-logo="https://logo.catvod.com/Sun TV India.png" group-title="ð®ð³ å°åº¦ | India",Sun TV India
-http://pixman.passwdwork.us.ci/smt/suntv_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=suntv_raj/
 #EXTINF:-1 tvg-name="Starmaa HD" tvg-logo="https://logo.catvod.com/Starmaa HD.png" group-title="ð®ð³ å°åº¦ | India",Starmaa HD
-http://pixman.passwdwork.us.ci/smt/starmaa_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmaa_raj/
 #EXTINF:-1 tvg-name="Starmaa Movies HD" tvg-logo="https://logo.catvod.com/Starmaa Movies HD.png" group-title="ð®ð³ å°åº¦ | India",Starmaa Movies HD
-http://pixman.passwdwork.us.ci/smt/starmaamovies_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmaamovies_raj/
 #EXTINF:-1 tvg-name="Vijay Super" tvg-logo="https://logo.catvod.com/Vijay Super.png" group-title="ð®ð³ å°åº¦ | India",Vijay Super
-http://pixman.passwdwork.us.ci/smt/vijaysuper_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vijaysuper_raj/
 #EXTINF:-1 tvg-name="Bollyone" tvg-logo="https://logo.catvod.com/Bollyone.png" group-title="ð®ð³ å°åº¦ | India",Bollyone
-http://pixman.passwdwork.us.ci/smt/Bollyone/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bollyone/
 #EXTINF:-1 tvg-name="Astro Sunmusic" tvg-logo="https://logo.catvod.com/Astro Sunmusic.png" group-title="ð®ð³ å°åº¦ | India",Astro Sunmusic
-http://pixman.passwdwork.us.ci/smt/Sunmusic/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
 #EXTINF:-1 tvg-name="Thangathirai" tvg-logo="https://logo.catvod.com/Thangathirai.png" group-title="ð®ð³ å°åº¦ | India",Thangathirai
-http://pixman.passwdwork.us.ci/smt/Thangathirai/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thangathirai/
 #EXTINF:-1 tvg-name="Vinmeen" tvg-logo="https://logo.catvod.com/Vinmeen.png" group-title="ð®ð³ å°åº¦ | India",Vinmeen
-http://pixman.passwdwork.us.ci/smt/Vinmeen/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vinmeen/
 #EXTINF:-1 tvg-name="Vellithirai" tvg-logo="https://logo.catvod.com/Vellithirai.png" group-title="ð®ð³ å°åº¦ | India",Vellithirai
-http://pixman.passwdwork.us.ci/smt/Vellithirai/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vellithirai/
 #EXTINF:-1 tvg-name="Sony Pictures HD" tvg-logo="https://logo.catvod.com/Sony Pictures HD.png" group-title="ð®ð³ å°åº¦ | India",Sony Pictures HD
-http://pixman.passwdwork.us.ci/smt/sonypix/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sonypix/
 #EXTINF:-1 tvg-name="BBC 1" tvg-logo="https://logo.catvod.com/BBC 1.png" group-title="ð¬ð§ è±å | United Kingdom",BBC 1
-http://pixman.passwdwork.us.ci/smt/bbc1_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbc1_antik/
 #EXTINF:-1 tvg-name="BBC 2" tvg-logo="https://logo.catvod.com/BBC 2.png" group-title="ð¬ð§ è±å | United Kingdom",BBC 2
-http://pixman.passwdwork.us.ci/smt/bbc2_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbc2_antik/
 #EXTINF:-1 tvg-name="CBBC" tvg-logo="https://logo.catvod.com/CBBC.png" group-title="ð¬ð§ è±å | United Kingdom",CBBC
-http://pixman.passwdwork.us.ci/smt/cbbc_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbbc_antik/
 #EXTINF:-1 tvg-name="More4" tvg-logo="https://logo.catvod.com/More4.png" group-title="ð¬ð§ è±å | United Kingdom",More4
-http://pixman.passwdwork.us.ci/smt/more4_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=more4_antik/
 #EXTINF:-1 tvg-name="Freesports" tvg-logo="https://logo.catvod.com/Freesports.png" group-title="ð¬ð§ è±å | United Kingdom",Freesports
-http://pixman.passwdwork.us.ci/smt/freesports_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=freesports_antik/
 #EXTINF:-1 tvg-name="Pick TV" tvg-logo="https://logo.catvod.com/Pick TV.png" group-title="ð¬ð§ è±å | United Kingdom",Pick TV
-http://pixman.passwdwork.us.ci/smt/picktv_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=picktv_antik/
 #EXTINF:-1 tvg-name="itv 1" tvg-logo="https://logo.catvod.com/itv 1.png" group-title="ð¬ð§ è±å | United Kingdom",itv 1
-http://pixman.passwdwork.us.ci/smt/itv1_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=itv1_antik/
 #EXTINF:-1 tvg-name="itv 2" tvg-logo="https://logo.catvod.com/itv 2.png" group-title="ð¬ð§ è±å | United Kingdom",itv 2
-http://pixman.passwdwork.us.ci/smt/itv2_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=itv2_antik/
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="ð¬ð§ è±å | United Kingdom",CGTN
-http://pixman.passwdwork.us.ci/smt/CGTN/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://logo.catvod.com/Euronews.png" group-title="ð¬ð§ è±å | United Kingdom",Euronews
-http://pixman.passwdwork.us.ci/smt/euronews_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=euronews_antik/
 #EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://logo.catvod.com/Channel 4.png" group-title="ð¬ð§ è±å | United Kingdom",Channel 4
-http://pixman.passwdwork.us.ci/smt/channel4_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=channel4_antik/
 #EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="ð¬ð§ è±å | United Kingdom",DW (Deutsch)
-http://pixman.passwdwork.us.ci/smt/dw_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
 #EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://logo.catvod.com/NatGeo HD.png" group-title="ð¬ð§ è±å | United Kingdom",NatGeo HD
-http://pixman.passwdwork.us.ci/smt/Natgeo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeo/
 #EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title="ð¬ð§ è±å | United Kingdom",CBeebies
-http://pixman.passwdwork.us.ci/smt/Cbeebies/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cbeebies/
 #EXTINF:-1 tvg-name="History" tvg-logo="https://logo.catvod.com/History.png" group-title="ð¬ð§ è±å | United Kingdom",History
-http://pixman.passwdwork.us.ci/smt/History/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=History/
 #EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title="ð¬ð§ è±å | United Kingdom",Kids TV
-http://pixman.passwdwork.us.ci/smt/KidsTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KidsTV/
 #EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://logo.catvod.com/BBC Earth HD.png" group-title="ð¬ð§ è±å | United Kingdom",BBC Earth HD
-http://pixman.passwdwork.us.ci/smt/bbcearth_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcearth_twn/
 #EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/BBC Earth Lifestyle.png" group-title="ð¬ð§ è±å | United Kingdom",BBC Earth Lifestyle
-http://pixman.passwdwork.us.ci/smt/bbclifestyle_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn/
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="ð¬ð§ è±å | United Kingdom",MTV Live
-http://pixman.passwdwork.us.ci/smt/mtvhd_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
 #EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="ð¬ð§ è±å | United Kingdom",Star Movies HD
-http://pixman.passwdwork.us.ci/smt/starmovies_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmovies_raj/
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="ð¬ð§ è±å | United Kingdom",NHK World
-http://pixman.passwdwork.us.ci/smt/nhkworld_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="ð¬ð§ è±å | United Kingdom",Warner TV
-http://pixman.passwdwork.us.ci/smt/WarnerTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="ð¬ð§ è±å | United Kingdom",Thrill
-http://pixman.passwdwork.us.ci/smt/Thrill/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="ð¬ð§ è±å | United Kingdom",HGTV
-http://pixman.passwdwork.us.ci/smt/HGTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="ð¬ð§ è±å | United Kingdom",TLC
-http://pixman.passwdwork.us.ci/smt/Tlc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
 #EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="ð¬ð§ è±å | United Kingdom",Axn HD
-http://pixman.passwdwork.us.ci/smt/Axn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="ð¬ð§ è±å | United Kingdom",HBO HD
-http://pixman.passwdwork.us.ci/smt/Hbo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
 #EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="ð¬ð§ è±å | United Kingdom",Hits Movie
-http://pixman.passwdwork.us.ci/smt/Hitsmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="ð¬ð§ è±å | United Kingdom",Nickelodeon
-http://pixman.passwdwork.us.ci/smt/Nickelodeon/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="ð¬ð§ è±å | United Kingdom",Nick Jr
-http://pixman.passwdwork.us.ci/smt/Nickjr/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
 #EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="ð¬ð§ è±å | United Kingdom",Al-Jazeera
-http://pixman.passwdwork.us.ci/smt/aljazeera_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=aljazeera_twn/
 #EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="ð¬ð§ è±å | United Kingdom",Animal Planet (Eng)
-http://pixman.passwdwork.us.ci/smt/AnimalPlanet/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="ð¬ð§ è±å | United Kingdom",Bloomberg News
-http://pixman.passwdwork.us.ci/smt/bloomberg_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bloomberg_twn/
 #EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="ð¬ð§ è±å | United Kingdom",NatGeo Wild HD
-http://pixman.passwdwork.us.ci/smt/Natgeowild/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="ð¬ð§ è±å | United Kingdom",BBC World News
-http://pixman.passwdwork.us.ci/smt/bbcworldnews_antik/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik/
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="ð¬ð§ è±å | United Kingdom",CNBC
-http://pixman.passwdwork.us.ci/smt/Cnbc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="ð¬ð§ è±å | United Kingdom",France 24
-http://pixman.passwdwork.us.ci/smt/france24_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=france24_twn/
 #EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="ð¬ð§ è±å | United Kingdom",Skynews
-http://pixman.passwdwork.us.ci/smt/skynews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=skynews_twn/
 #EXTINF:-1 tvg-name="Astro PL 1" tvg-logo="https://logo.catvod.com/Astro PL 1.png" group-title="â½ é«è²é »é | Sports",Astro PL 1
-http://pixman.passwdwork.us.ci/smt/Assp1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp1/
 #EXTINF:-1 tvg-name="Astro PL 1 (Back Up 1)" tvg-logo="https://logo.catvod.com/Astro PL 1 (Back Up 1).png" group-title="â½ é«è²é »é | Sports",Astro PL 1 (Back Up 1)
-http://pixman.passwdwork.us.ci/smt/go_assp1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp1/
 #EXTINF:-1 tvg-name="Astro PL 1 (Back Up 2)" tvg-logo="https://logo.catvod.com/Astro PL 1 (Back Up 2).png" group-title="â½ é«è²é »é | Sports",Astro PL 1 (Back Up 2)
-http://pixman.passwdwork.us.ci/smt/go_assp1x/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp1x/
 #EXTINF:-1 tvg-name="Astro W-Sports" tvg-logo="https://logo.catvod.com/Astro W-Sports.png" group-title="â½ é«è²é »é | Sports",Astro W-Sports
-http://pixman.passwdwork.us.ci/smt/go_assp5/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp5/
 #EXTINF:-1 tvg-name="Astro PL 2" tvg-logo="https://logo.catvod.com/Astro PL 2.png" group-title="â½ é«è²é »é | Sports",Astro PL 2
-http://pixman.passwdwork.us.ci/smt/go_assp2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp2/
 #EXTINF:-1 tvg-name="WWE" tvg-logo="https://logo.catvod.com/WWE.png" group-title="â½ é«è²é »é | Sports",WWE
-http://pixman.passwdwork.us.ci/smt/Wwe/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wwe/
 #EXTINF:-1 tvg-name="åæ¯é«ç2 HD" tvg-logo="https://logo.catvod.com/åæ¯é«ç2 HD.png" group-title="â½ é«è²é »é | Sports",åæ¯é«ç2 HD
-http://pixman.passwdwork.us.ci/smt/bosigolf2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf2_twn/
 #EXTINF:-1 tvg-name="åæ¯ç½ç HD" tvg-logo="https://logo.catvod.com/åæ¯ç½ç HD.png" group-title="â½ é«è²é »é | Sports",åæ¯ç½ç HD
-http://pixman.passwdwork.us.ci/smt/bositennis_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bositennis_twn/
 #EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://logo.catvod.com/Fight Sports.png" group-title="â½ é«è²é »é | Sports",Fight Sports
-http://pixman.passwdwork.us.ci/smt/Fs/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Fs/
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://logo.catvod.com/NBA TV.png" group-title="â½ é«è²é »é | Sports",NBA TV
-http://pixman.passwdwork.us.ci/smt/Nba/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nba/
 #EXTINF:-1 tvg-name="Arena" tvg-logo="https://logo.catvod.com/Arena.png" group-title="â½ é«è²é »é | Sports",Arena
-http://pixman.passwdwork.us.ci/smt/Arena/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena/
 #EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://logo.catvod.com/Arena 2.png" group-title="â½ é«è²é »é | Sports",Arena 2
-http://pixman.passwdwork.us.ci/smt/Arena2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena2/
 #EXTINF:-1 tvg-name="Arena Bola 1" tvg-logo="https://logo.catvod.com/Arena Bola 1.png" group-title="â½ é«è²é »é | Sports",Arena Bola 1
-http://pixman.passwdwork.us.ci/smt/Bolaarena1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena1/
 #EXTINF:-1 tvg-name="Arena Bola 2" tvg-logo="https://logo.catvod.com/Arena Bola 2.png" group-title="â½ é«è²é »é | Sports",Arena Bola 2
-http://pixman.passwdwork.us.ci/smt/Bolaarena2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena2/
 #EXTINF:-1 tvg-name="Astro Golf" tvg-logo="https://logo.catvod.com/Astro Golf.png" group-title="â½ é«è²é »é | Sports",Astro Golf
-http://pixman.passwdwork.us.ci/smt/Agolf/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Agolf/
 #EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://logo.catvod.com/RTM Sports HD.png" group-title="â½ é«è²é »é | Sports",RTM Sports HD
-http://pixman.passwdwork.us.ci/smt/Rtmsport/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmsport/
 #EXTINF:-1 tvg-name="Astro Football" tvg-logo="https://logo.catvod.com/Astro Football.png" group-title="â½ é«è²é »é | Sports",Astro Football
-http://pixman.passwdwork.us.ci/smt/go_assp4/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp4/
 #EXTINF:-1 tvg-name="Astro Football (Back Up 1)" tvg-logo="https://logo.catvod.com/Astro Football (Back Up 1).png" group-title="â½ é«è²é »é | Sports",Astro Football (Back Up 1)
-http://pixman.passwdwork.us.ci/smt/Assp4/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp4/
 #EXTINF:-1 tvg-name="Astro Badminton" tvg-logo="https://logo.catvod.com/Astro Badminton.png" group-title="â½ é«è²é »é | Sports",Astro Badminton
-http://pixman.passwdwork.us.ci/smt/go_badminton1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton1/
 #EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="https://logo.catvod.com/Astro Badminton 2.png" group-title="â½ é«è²é »é | Sports",Astro Badminton 2
-http://pixman.passwdwork.us.ci/smt/go_badminton2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton2/
 #EXTINF:-1 tvg-name="SPOTV 1 HD" tvg-logo="https://logo.catvod.com/SPOTV 1 HD.png" group-title="â½ é«è²é »é | Sports",SPOTV 1 HD
-http://pixman.passwdwork.us.ci/smt/go_spotv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_spotv/
 #EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://logo.catvod.com/SPO TV 2.png" group-title="â½ é«è²é »é | Sports",SPO TV 2
-http://pixman.passwdwork.us.ci/smt/go_spotv2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_spotv2/
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="â½ é«è²é »é | Sports",CCTV-5 é«è²
-http://pixman.passwdwork.us.ci/smt/cctv5/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5/
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="â½ é«è²é »é | Sports",CCTV-5+ é«è²
-http://pixman.passwdwork.us.ci/smt/cctv5plus/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5plus/
 #EXTINF:-1 tvg-name="Supersports 2" tvg-logo="https://logo.catvod.com/Supersports 2.png" group-title="â½ é«è²é »é | Sports",Supersports 2
-http://pixman.passwdwork.us.ci/smt/Assp2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp2/
 #EXTINF:-1 tvg-name="Astro Grandstand" tvg-logo="https://logo.catvod.com/Astro Grandstand.png" group-title="â½ é«è²é »é | Sports",Astro Grandstand
-http://pixman.passwdwork.us.ci/smt/go_assp3/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp3/
 #EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://logo.catvod.com/Astro Cricket.png" group-title="â½ é«è²é »é | Sports",Astro Cricket
-http://pixman.passwdwork.us.ci/smt/Acricket/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Acricket/
 #EXTINF:-1 tvg-name="Tnt Sports 1" tvg-logo="https://logo.catvod.com/Tnt Sports 1.png" group-title="â½ é«è²é »é | Sports",Tnt Sports 1
-http://pixman.passwdwork.us.ci/smt/tntsport1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport1/
 #EXTINF:-1 tvg-name="Astro Grandstand (Back Up 1)" tvg-logo="https://logo.catvod.com/Astro Grandstand (Back Up 1).png" group-title="â½ é«è²é »é | Sports",Astro Grandstand (Back Up 1)
-http://pixman.passwdwork.us.ci/smt/Assp3/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp3/
 #EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://logo.catvod.com/TNT Sports 2.png" group-title="â½ é«è²é »é | Sports",TNT Sports 2
-http://pixman.passwdwork.us.ci/smt/tntsport2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport2/
 #EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://logo.catvod.com/TNT Sports 3.png" group-title="â½ é«è²é »é | Sports",TNT Sports 3
-http://pixman.passwdwork.us.ci/smt/tntsport3/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport3/
 #EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://logo.catvod.com/TNT Sports 4.png" group-title="â½ é«è²é »é | Sports",TNT Sports 4
-http://pixman.passwdwork.us.ci/smt/tntsport4/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport4/
 #EXTINF:-1 tvg-name="Astro Sports Plus" tvg-logo="https://logo.catvod.com/Astro Sports Plus.png" group-title="â½ é«è²é »é | Sports",Astro Sports Plus
-http://pixman.passwdwork.us.ci/smt/go_sportsplus/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_sportsplus/
 #EXTINF:-1 tvg-name="Eltaä½è²1å°" tvg-logo="https://logo.catvod.com/Eltaä½è²1å°.png" group-title="â½ é«è²é »é | Sports",Eltaä½è²1å°
-http://pixman.passwdwork.us.ci/smt/eltasport1_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport1_twn/
 #EXTINF:-1 tvg-name="Eltaé«è²2å°" tvg-logo="https://logo.catvod.com/Eltaé«è²2å°.png" group-title="â½ é«è²é »é | Sports",Eltaé«è²2å°
-http://pixman.passwdwork.us.ci/smt/eltasport2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport2_twn/
 #EXTINF:-1 tvg-name="Eltaé«è²3å°" tvg-logo="https://logo.catvod.com/Eltaé«è²3å°.png" group-title="â½ é«è²é »é | Sports",Eltaé«è²3å°
-http://pixman.passwdwork.us.ci/smt/eltasport3_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport3_twn/
 #EXTINF:-1 tvg-name="Rugby Pass TV" tvg-logo="https://logo.catvod.com/Rugby Pass TV.png" group-title="â½ é«è²é »é | Sports",Rugby Pass TV
-http://pixman.passwdwork.us.ci/smt/Rugbypasstv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rugbypasstv/
 #EXTINF:-1 tvg-name="Astro Beinsports 1" tvg-logo="https://logo.catvod.com/Astro Beinsports 1.png" group-title="â½ é«è²é »é | Sports",Astro Beinsports 1
-http://pixman.passwdwork.us.ci/smt/Astrobein1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein1/
 #EXTINF:-1 tvg-name="Astro Beinsports 2" tvg-logo="https://logo.catvod.com/Astro Beinsports 2.png" group-title="â½ é«è²é »é | Sports",Astro Beinsports 2
-http://pixman.passwdwork.us.ci/smt/Astrobein2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein2/
 #EXTINF:-1 tvg-name="Astro Beinsports 3" tvg-logo="https://logo.catvod.com/Astro Beinsports 3.png" group-title="â½ é«è²é »é | Sports",Astro Beinsports 3
-http://pixman.passwdwork.us.ci/smt/Astrobein3/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein3/
 #EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="https://logo.catvod.com/Skysports Cricket.png" group-title="â½ é«è²é »é | Sports",Skysports Cricket
-http://pixman.passwdwork.us.ci/smt/tiankongcricket/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongcricket/
 #EXTINF:-1 tvg-name="Skysports EPL" tvg-logo="https://logo.catvod.com/Skysports EPL.png" group-title="â½ é«è²é »é | Sports",Skysports EPL
-http://pixman.passwdwork.us.ci/smt/tiankongepl/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongepl/
 #EXTINF:-1 tvg-name="Skysports F1" tvg-logo="https://logo.catvod.com/Skysports F1.png" group-title="â½ é«è²é »é | Sports",Skysports F1
-http://pixman.passwdwork.us.ci/smt/tiankongf1/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongf1/
 #EXTINF:-1 tvg-name="Skysports Golf" tvg-logo="https://logo.catvod.com/Skysports Golf.png" group-title="â½ é«è²é »é | Sports",Skysports Golf
-http://pixman.passwdwork.us.ci/smt/tiankonggolf/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankonggolf/
 #EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="https://logo.catvod.com/Skysports Main Event.png" group-title="â½ é«è²é »é | Sports",Skysports Main Event
-http://pixman.passwdwork.us.ci/smt/tiankongmain/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongmain/
 #EXTINF:-1 tvg-name="Skysports Mix" tvg-logo="https://logo.catvod.com/Skysports Mix.png" group-title="â½ é«è²é »é | Sports",Skysports Mix
-http://pixman.passwdwork.us.ci/smt/tiankongmix/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongmix/
 #EXTINF:-1 tvg-name="Skysports Racing" tvg-logo="https://logo.catvod.com/Skysports Racing.png" group-title="â½ é«è²é »é | Sports",Skysports Racing
-http://pixman.passwdwork.us.ci/smt/tiankongracing/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongracing/
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN 1.png" group-title="â½ é«è²é »é | Sports",DAZN 1
-http://pixman.passwdwork.us.ci/smt/dazn1_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn1_twn/
 #EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN 2.png" group-title="â½ é«è²é »é | Sports",DAZN 2
-http://pixman.passwdwork.us.ci/smt/dazn2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn2_twn/
 #EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://logo.catvod.com/Eurosport.png" group-title="â½ é«è²é »é | Sports",Eurosport
-http://pixman.passwdwork.us.ci/smt/Eurosport/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Eurosport/
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="ð¬ é»å½±é »é",TVB Plus
 https://smt.1678520.xyz/163189/18e96648d4420d9e
 #EXTINF:-1 tvg-name="çº¬æ¥çµå½±å°" tvg-logo="https://logo.catvod.com/çº¬æ¥çµå½±å°.png" group-title="ð¬ é»å½±é »é",çº¬æ¥çµå½±å°
@@ -1421,211 +1421,211 @@ https://smt.1678520.xyz/163189/2824421ea53c4891
 https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="ð¬ é»å½±é »é | Movies",CCTV-6 é»å½±
-http://pixman.passwdwork.us.ci/smt/cctv6/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv6/
 #EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://logo.catvod.com/HBO_HD.png" group-title="ð¬ é»å½±é »é | Movies",HBO_HD
-http://pixman.passwdwork.us.ci/smt/hbohd_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohd_twn/
 #EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://logo.catvod.com/HBO_HITS.png" group-title="ð¬ é»å½±é »é | Movies",HBO_HITS
-http://pixman.passwdwork.us.ci/smt/hbohits_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohits_twn/
 #EXTINF:-1 tvg-name="HBO Signature Taiwan" tvg-logo="https://logo.catvod.com/HBO Signature Taiwan.png" group-title="ð¬ é»å½±é »é | Movies",HBO Signature Taiwan
-http://pixman.passwdwork.us.ci/smt/hbosignature_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbosignature_twn/
 #EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://logo.catvod.com/Hollywood Movies.png" group-title="ð¬ é»å½±é »é | Movies",Hollywood Movies
-http://pixman.passwdwork.us.ci/smt/hollywoodmovies_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn/
 #EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://logo.catvod.com/AXN Taiwan.png" group-title="ð¬ é»å½±é »é | Movies",AXN Taiwan
-http://pixman.passwdwork.us.ci/smt/axn_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=axn_twn/
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://logo.catvod.com/CINEMAX.png" group-title="ð¬ é»å½±é »é | Movies",CINEMAX
-http://pixman.passwdwork.us.ci/smt/cinemax_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cinemax_twn/
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://logo.catvod.com/Cinemax.png" group-title="ð¬ é»å½±é »é | Movies",Cinemax
-http://pixman.passwdwork.us.ci/smt/Cinemax/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cinemax/
 #EXTINF:-1 tvg-name="å¤§ç±2å°" tvg-logo="https://logo.catvod.com/å¤§ç±2å°.png" group-title="ð¬ é»å½±é »é | Movies",å¤§ç±2å°
-http://pixman.passwdwork.us.ci/smt/daai2_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai2_twn/
 #EXTINF:-1 tvg-name="ä¸æ£®çµå½± ETTV Movie" tvg-logo="https://logo.catvod.com/ä¸æ£®çµå½± ETTV Movie.png" group-title="ð¬ é»å½±é »é | Movies",ä¸æ£®çµå½± ETTV Movie
-http://pixman.passwdwork.us.ci/smt/ettvmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvmovie/
 #EXTINF:-1 tvg-name="ä¸æ£®æ´ç ETTV Western" tvg-logo="https://logo.catvod.com/ä¸æ£®æ´ç ETTV Western.png" group-title="ð¬ é»å½±é »é | Movies",ä¸æ£®æ´ç ETTV Western
-http://pixman.passwdwork.us.ci/smt/ettvwestern/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvwestern/
 #EXTINF:-1 tvg-name="é¾åæ´ç Lunghua Western" tvg-logo="https://logo.catvod.com/é¾åæ´ç Lunghua Western.png" group-title="ð¬ é»å½±é »é | Movies",é¾åæ´ç Lunghua Western
-http://pixman.passwdwork.us.ci/smt/lunghuawestern_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn/
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="ð¬ é»å½±é »é | Movies",Animax
-http://pixman.passwdwork.us.ci/smt/Animax/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
 #EXTINF:-1 tvg-name="é¾è¯¦æ¶ä»£" tvg-logo="https://logo.catvod.com/é¾è¯¦æ¶ä»£.png" group-title="ð¬ é»å½±é »é | Movies",é¾è¯¦æ¶ä»£
-http://pixman.passwdwork.us.ci/smt/lungxiangtime_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn/
 #EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://logo.catvod.com/Movies Now HD.png" group-title="ð¬ é»å½±é »é | Movies",Movies Now HD
-http://pixman.passwdwork.us.ci/smt/moviesnow_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=moviesnow_raj/
 #EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="ð¬ é»å½±é »é | Movies",Star Movies HD
-http://pixman.passwdwork.us.ci/smt/starmovies_raj/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmovies_raj/
 #EXTINF:-1 tvg-name="å«è§ä¸­æå° Star Movies Chinese" tvg-logo="https://logo.catvod.com/å«è§ä¸­æå° Star Movies Chinese.png" group-title="ð¬ é»å½±é »é | Movies",å«è§ä¸­æå° Star Movies Chinese
-http://pixman.passwdwork.us.ci/smt/weishichinese_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishichinese_twn/
 #EXTINF:-1 tvg-name="Hits" tvg-logo="https://logo.catvod.com/Hits.png" group-title="ð¬ é»å½±é »é | Movies",Hits
-http://pixman.passwdwork.us.ci/smt/Hits/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits/
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="ð¬ é»å½±é »é | Movies",Warner TV
-http://pixman.passwdwork.us.ci/smt/WarnerTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
 #EXTINF:-1 tvg-name="ç¾äºçµå½±" tvg-logo="https://logo.catvod.com/ç¾äºçµå½±.png" group-title="ð¬ é»å½±é »é | Movies",ç¾äºçµå½±
-http://pixman.passwdwork.us.ci/smt/meiyamovie_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=meiyamovie_twn/
 #EXTINF:-1 tvg-name="SCM" tvg-logo="https://logo.catvod.com/SCM.png" group-title="ð¬ é»å½±é »é | Movies",SCM
-http://pixman.passwdwork.us.ci/smt/Weishimovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Weishimovie/
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="ð¬ é»å½±é »é | Movies",Thrill
-http://pixman.passwdwork.us.ci/smt/Thrill/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="ð¬ é»å½±é »é | Movies",HBO Family
-http://pixman.passwdwork.us.ci/smt/Hbofamily/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbofamily/
 #EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="ð¬ é»å½±é »é | Movies",Axn HD
-http://pixman.passwdwork.us.ci/smt/Axn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="ð¬ é»å½±é »é | Movies",HBO HD
-http://pixman.passwdwork.us.ci/smt/Hbo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://logo.catvod.com/HBO Signature.png" group-title="ð¬ é»å½±é »é | Movies",HBO Signature
-http://pixman.passwdwork.us.ci/smt/Hbosignature/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbosignature/
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://logo.catvod.com/HBO Hits.png" group-title="ð¬ é»å½±é »é | Movies",HBO Hits
-http://pixman.passwdwork.us.ci/smt/Hbohitshd/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbohitshd/
 #EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://logo.catvod.com/Dreamworks.png" group-title="ð¬ é»å½±é »é | Movies",Dreamworks
-http://pixman.passwdwork.us.ci/smt/Dreamworks/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dreamworks/
 #EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="ð¬ é»å½±é »é | Movies",Hits Movie
-http://pixman.passwdwork.us.ci/smt/Hitsmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
 #EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="ð¬ é»å½±é »é | Movies",tvN Movie
-http://pixman.passwdwork.us.ci/smt/Tvnmovie/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
 #EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://logo.catvod.com/Astrol Kplus.png" group-title="ð¬ é»å½±é »é | Movies",Astrol Kplus
-http://pixman.passwdwork.us.ci/smt/Kplus/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kplus/
 #EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="ð¬ é»å½±é »é | Movies",One
-http://pixman.passwdwork.us.ci/smt/One/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
 #EXTINF:-1 tvg-name="å¤©æ é »éCelestial Movies" tvg-logo="https://logo.catvod.com/å¤©æ é »éCelestial Movies.png" group-title="ð¬ é»å½±é »é | Movies",å¤©æ é »éCelestial Movies
-http://pixman.passwdwork.us.ci/smt/Celestialindo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestialindo/
 #EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://logo.catvod.com/Celestial Classic.png" group-title="ð¬ é»å½±é »é | Movies",Celestial Classic
-http://pixman.passwdwork.us.ci/smt/Celestial2/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial2/
 #EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="ð¬ é»å½±é »é | Movies",Rock Actions
-http://pixman.passwdwork.us.ci/smt/Rockaction/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
 #EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="ð¬ é»å½±é »é | Movies",Rock Entertainment
-http://pixman.passwdwork.us.ci/smt/Rockentertain/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
 #EXTINF:-1 tvg-name="CI" tvg-logo="https://logo.catvod.com/CI.png" group-title="ð ç´éé »é | Documentary",CI
-http://pixman.passwdwork.us.ci/smt/ci_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ci_twn/
 #EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://logo.catvod.com/Asia Travel.png" group-title="ð ç´éé »é | Documentary",Asia Travel
-http://pixman.passwdwork.us.ci/smt/asiatravel_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asiatravel_twn/
 #EXTINF:-1 tvg-name="äºæ´²ç¾é£" tvg-logo="https://logo.catvod.com/äºæ´²ç¾é£.png" group-title="ð ç´éé »é | Documentary",äºæ´²ç¾é£
-http://pixman.passwdwork.us.ci/smt/afc_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=afc_twn/
 #EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://logo.catvod.com/NatGeo HD.png" group-title="ð ç´éé »é | Documentary",NatGeo HD
-http://pixman.passwdwork.us.ci/smt/Natgeo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeo/
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="ð ç´éé »é | Documentary",Fashion TV
-http://pixman.passwdwork.us.ci/smt/fashiontv_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=fashiontv_twn/
 #EXTINF:-1 tvg-name="History" tvg-logo="https://logo.catvod.com/History.png" group-title="ð ç´éé »é | Documentary",History
-http://pixman.passwdwork.us.ci/smt/History/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=History/
 #EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://logo.catvod.com/BBC Earth HD.png" group-title="ð ç´éé »é | Documentary",BBC Earth HD
-http://pixman.passwdwork.us.ci/smt/bbcearth_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcearth_twn/
 #EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/BBC Earth Lifestyle.png" group-title="ð ç´éé »é | Documentary",BBC Earth Lifestyle
-http://pixman.passwdwork.us.ci/smt/bbclifestyle_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn/
 #EXTINF:-1 tvg-name="äºæ´²ææ¸¸ TLC Asia" tvg-logo="https://logo.catvod.com/äºæ´²ææ¸¸ TLC Asia.png" group-title="ð ç´éé »é | Documentary",äºæ´²ææ¸¸ TLC Asia
-http://pixman.passwdwork.us.ci/smt/tlc_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tlc_twn/
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="ð ç´éé »é | Documentary",MTV Live
-http://pixman.passwdwork.us.ci/smt/mtvhd_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
 #EXTINF:-1 tvg-name="NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/NatGeo_Wild HD.png" group-title="ð ç´éé »é | Documentary",NatGeo_Wild HD
-http://pixman.passwdwork.us.ci/smt/Natgeowild/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="https://logo.catvod.com/Animal_Planet.png" group-title="ð ç´éé »é | Documentary",Animal_Planet
-http://pixman.passwdwork.us.ci/smt/AnimalPlanet/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="ð ç´éé »é | Documentary",HGTV
-http://pixman.passwdwork.us.ci/smt/HGTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="ð ç´éé »é | Documentary",TLC
-http://pixman.passwdwork.us.ci/smt/Tlc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
 #EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://logo.catvod.com/Foodnetwork Hd.png" group-title="ð ç´éé »é | Documentary",Foodnetwork Hd
-http://pixman.passwdwork.us.ci/smt/Foodnetwork/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Foodnetwork/
 #EXTINF:-1 tvg-name="Asia Food Network" tvg-logo="https://logo.catvod.com/Asia Food Network.png" group-title="ð ç´éé »é | Documentary",Asia Food Network
-http://pixman.passwdwork.us.ci/smt/Afc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
 #EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="ð ç´éé »é | Documentary",Animal Planet (Eng)
-http://pixman.passwdwork.us.ci/smt/AnimalPlanet/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="ð ç´éé »é | Documentary",NatGeo Wild HD
-http://pixman.passwdwork.us.ci/smt/Natgeowild/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://logo.catvod.com/Discovery Asia.png" group-title="ð ç´éé »é | Documentary",Discovery Asia
-http://pixman.passwdwork.us.ci/smt/Discoveryasia/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Discoveryasia/
 #EXTINF:-1 tvg-name="Dmax" tvg-logo="https://logo.catvod.com/Dmax.png" group-title="ð ç´éé »é | Documentary",Dmax
-http://pixman.passwdwork.us.ci/smt/Dmax/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dmax/
 #EXTINF:-1 tvg-name="æ¢ç´¢é¢é" tvg-logo="https://logo.catvod.com/æ¢ç´¢é¢é.png" group-title="ð ç´éé »é | Documentary",æ¢ç´¢é¢é
-http://pixman.passwdwork.us.ci/smt/discoverych_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverych_twn/
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://logo.catvod.com/ABC News.png" group-title="ð° æ°èé »é | News",ABC News
-http://pixman.passwdwork.us.ci/smt/abcnews_glo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=abcnews_glo/
 #EXTINF:-1 tvg-name="iNews äºåæ°èå°" tvg-logo="https://logo.catvod.com/iNews äºåæ°èå°.png" group-title="ð° æ°èé »é | News",iNews äºåæ°èå°
-http://pixman.passwdwork.us.ci/smt/inews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=inews_twn/
 #EXTINF:-1 tvg-name="CBS HD" tvg-logo="https://logo.catvod.com/CBS HD.png" group-title="ð° æ°èé »é | News",CBS HD
-http://pixman.passwdwork.us.ci/smt/cbshd_glo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbshd_glo/
 #EXTINF:-1 tvg-name="CBSN HD" tvg-logo="https://logo.catvod.com/CBSN HD.png" group-title="ð° æ°èé »é | News",CBSN HD
-http://pixman.passwdwork.us.ci/smt/cbsn_glo/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbsn_glo/
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="ð° æ°èé »é | News",CCTV-13 æ°èèé »é
-http://pixman.passwdwork.us.ci/smt/cctv13/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv13/
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="ð° æ°èé »é | News",CGTN
-http://pixman.passwdwork.us.ci/smt/CGTN/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
 #EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="ð° æ°èé »é | News",DW (Deutsch)
-http://pixman.passwdwork.us.ci/smt/dw_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
 #EXTINF:-1 tvg-name="Fox News" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="ð° æ°èé »é | News",Fox News
-http://pixman.passwdwork.us.ci/smt/foxnews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=foxnews_twn/
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="ð° æ°èé »é | News",NHK World
-http://pixman.passwdwork.us.ci/smt/nhkworld_japan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
 #EXTINF:-1 tvg-name="TVBS News æ°èå°" tvg-logo="https://logo.catvod.com/TVBS News æ°èå°.png" group-title="ð° æ°èé »é | News",TVBS News æ°èå°
-http://pixman.passwdwork.us.ci/smt/tvbs_n/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs_n/
 #EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="ð° æ°èé »é | News",Al-Jazeera
-http://pixman.passwdwork.us.ci/smt/aljazeera_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=aljazeera_twn/
 #EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="ð° æ°èé »é | News",Bloomberg News
-http://pixman.passwdwork.us.ci/smt/bloomberg_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bloomberg_twn/
 #EXTINF:-1 tvg-name="æ±æ£®æ°è ETTV News" tvg-logo="https://logo.catvod.com/æ±æ£®æ°è ETTV News.png" group-title="ð° æ°èé »é | News",æ±æ£®æ°è ETTV News
-http://pixman.passwdwork.us.ci/smt/ettvnews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvnews/
 #EXTINF:-1 tvg-name="æ±æ£®è²¡ç¶æ°è ETTV Business" tvg-logo="https://logo.catvod.com/æ±æ£®è²¡ç¶æ°è ETTV Business.png" group-title="ð° æ°èé »é | News",æ±æ£®è²¡ç¶æ°è ETTV Business
-http://pixman.passwdwork.us.ci/smt/ettvcaijing_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn/
 #EXTINF:-1 tvg-name="ä¸­å¤©æ°è CTI News" tvg-logo="https://logo.catvod.com/ä¸­å¤©æ°è CTI News.png" group-title="ð° æ°èé »é | News",ä¸­å¤©æ°è CTI News
-http://pixman.passwdwork.us.ci/smt/ctinews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctinews/
 #EXTINF:-1 tvg-name="éå¡æ°èå°" tvg-logo="https://logo.catvod.com/éå¡æ°èå°.png" group-title="ð° æ°èé »é | News",éå¡æ°èå°
-http://pixman.passwdwork.us.ci/smt/feifannews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=feifannews_twn/
 #EXTINF:-1 tvg-name="å°è¦æ°èå° TTV News" tvg-logo="https://logo.catvod.com/å°è¦æ°èå° TTV News.png" group-title="ð° æ°èé »é | News",å°è¦æ°èå° TTV News
-http://pixman.passwdwork.us.ci/smt/ttvnews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvnews_twn/
 #EXTINF:-1 tvg-name="æ°è¦æ°èå° FTV News" tvg-logo="https://logo.catvod.com/æ°è¦æ°èå° FTV News.png" group-title="ð° æ°èé »é | News",æ°è¦æ°èå° FTV News
-http://pixman.passwdwork.us.ci/smt/ftvnew_taiwan/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan/
 #EXTINF:-1 tvg-name="Al_Jazeera" tvg-logo="https://logo.catvod.com/Al_Jazeera.png" group-title="ð° æ°èé »é | News",Al_Jazeera
-http://pixman.passwdwork.us.ci/smt/Aljazeera/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aljazeera/
 #EXTINF:-1 tvg-name="å¯°å®æ°èå°" tvg-logo="https://logo.catvod.com/å¯°å®æ°èå°.png" group-title="ð° æ°èé »é | News",å¯°å®æ°èå°
-http://pixman.passwdwork.us.ci/smt/huanyuxinwen_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn/
 #EXTINF:-1 tvg-name="ä¸­è¦æ°èå°" tvg-logo="https://logo.catvod.com/ä¸­è¦æ°èå°.png" group-title="ð° æ°èé »é | News",ä¸­è¦æ°èå°
-http://pixman.passwdwork.us.ci/smt/zhongshinews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshinews_twn/
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://logo.catvod.com/CNN.png" group-title="ð° æ°èé »é | News",CNN
-http://pixman.passwdwork.us.ci/smt/Cnn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
 #EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://logo.catvod.com/CNN backup.png" group-title="ð° æ°èé »é | News",CNN backup
-http://pixman.passwdwork.us.ci/smt/cnn_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="ð° æ°èé »é | News",BBC World News
-http://pixman.passwdwork.us.ci/smt/Bbcnews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="ð° æ°èé »é | News",BBC World News
-http://pixman.passwdwork.us.ci/smt/Bbcnews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="ð° æ°èé »é | News",CNBC
-http://pixman.passwdwork.us.ci/smt/Cnbc/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://logo.catvod.com/Bloomberg TV.png" group-title="ð° æ°èé »é | News",Bloomberg TV
-http://pixman.passwdwork.us.ci/smt/Bloomberg/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bloomberg/
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="ð° æ°èé »é | News",CNA
-http://pixman.passwdwork.us.ci/smt/cna/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://logo.catvod.com/DW.png" group-title="ð° æ°èé »é | News",DW
-http://pixman.passwdwork.us.ci/smt/Dw/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dw/
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="ð° æ°èé »é | News",France 24
-http://pixman.passwdwork.us.ci/smt/france24_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=france24_twn/
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="ð° æ°èé »é | News",France 24
-http://pixman.passwdwork.us.ci/smt/France24/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=France24/
 #EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="ð° æ°èé »é | News",Skynews
-http://pixman.passwdwork.us.ci/smt/Skynews/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Skynews/
 #EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="ð° æ°èé »é | News",Skynews
-http://pixman.passwdwork.us.ci/smt/skynews_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=skynews_twn/
 #EXTINF:-1 tvg-name="NHK Premium" tvg-logo="https://logo.catvod.com/NHK Premium.png" group-title="ð° æ°èé »é | News",NHK Premium
-http://pixman.passwdwork.us.ci/smt/NHKpremium/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NHKpremium/
 #EXTINF:-1 tvg-name="Baby TV Eng" tvg-logo="https://logo.catvod.com/Baby TV Eng.png" group-title="ð§¸ åç«¥é »é | Kids",Baby TV Eng
-http://pixman.passwdwork.us.ci/smt/Ind_babytv/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ind_babytv/
 #EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title="ð§¸ åç«¥é »é | Kids",CBeebies
-http://pixman.passwdwork.us.ci/smt/Cbeebies/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cbeebies/
 #EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title="ð§¸ åç«¥é »é | Kids",Kids TV
-http://pixman.passwdwork.us.ci/smt/KidsTV/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KidsTV/
 #EXTINF:-1 tvg-name="Momo TV" tvg-logo="https://logo.catvod.com/Momo TV.png" group-title="ð§¸ åç«¥é »é | Kids",Momo TV
-http://pixman.passwdwork.us.ci/smt/momo1_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=momo1_twn/
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="ð§¸ åç«¥é »é | Kids",Animax
-http://pixman.passwdwork.us.ci/smt/Animax/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
 #EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://logo.catvod.com/Baby TV.png" group-title="ð§¸ åç«¥é »é | Kids",Baby TV
-http://pixman.passwdwork.us.ci/smt/babytv_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=babytv_twn/
 #EXTINF:-1 tvg-name="MiaoMi" tvg-logo="https://logo.catvod.com/MiaoMi.png" group-title="ð§¸ åç«¥é »é | Kids",MiaoMi
-http://pixman.passwdwork.us.ci/smt/MiaoMi/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MiaoMi/
 #EXTINF:-1 tvg-name="éå¤©å¡éå°" tvg-logo="https://logo.catvod.com/éå¤©å¡éå°.png" group-title="ð§¸ åç«¥é »é | Kids",éå¤©å¡éå°
-http://pixman.passwdwork.us.ci/smt/jingtiancartoon_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn/
 #EXTINF:-1 tvg-name="ä¸æ£®å¹¼å¹¼ Yoyo TV" tvg-logo="https://logo.catvod.com/ä¸æ£®å¹¼å¹¼ Yoyo TV.png" group-title="ð§¸ åç«¥é »é | Kids",ä¸æ£®å¹¼å¹¼ Yoyo TV
-http://pixman.passwdwork.us.ci/smt/yoyo_twn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yoyo_twn/
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="ð§¸ åç«¥é »é | Kids",Nickelodeon
-http://pixman.passwdwork.us.ci/smt/Nickelodeon/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="ð§¸ åç«¥é »é | Kids",Nick Jr
-http://pixman.passwdwork.us.ci/smt/Nickjr/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title="ð§¸ åç«¥é »é | Kids",Cartoon Network
-http://pixman.passwdwork.us.ci/smt/Cn/
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn/
 #EXTINF:-1 tvg-name="å¨ææ" tvg-logo="https://logo.catvod.com/å¨ææ.png" group-title="â¨ï¸çµå½±",å¨ææ
 http://feilong123.vip/huya.php?raw=1&id=11342412
 #EXTINF:-1 tvg-name="æé¾" tvg-logo="https://logo.catvod.com/æé¾.png" group-title="â¨ï¸çµå½±",æé¾
